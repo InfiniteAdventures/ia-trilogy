@@ -1,0 +1,21 @@
+# Für Git Bash (Windows) oder eine Linux-Kommandozeile.
+
+## Interaktiver Modus:
+
+### Verschlüsseln:
+
+sed 'y/qwertzuiopüasdfghjklöäyxcvbnmQWERTZUIOPÜASDFGHJKLÖÄYXCVBNM/1234567890ßqwertzuiopüasdfghj!"§$%&\/()=?QWERTZUIOPÜASDFGHJ/'
+
+### Entschlüsseln:
+
+sed 'y/1234567890ßqwertzuiopüasdfghj!"§$%&\/()=?QWERTZUIOPÜASDFGHJ/qwertzuiopüasdfghjklöäyxcvbnmQWERTZUIOPÜASDFGHJKLÖÄYXCVBNM/'
+
+## Kommandozeilen-Modus:
+
+### Verschlüsseln:
+
+echo "Originaltext" | sed 'y/qwertzuiopüasdfghjklöäyxcvbnmQWERTZUIOPÜASDFGHJKLÖÄYXCVBNM/1234567890ßqwertzuiopüasdfghj!"§$%&\/()=?QWERTZUIOPÜASDFGHJ/'
+
+### Entschlüsseln:
+
+echo "Originaltext" | sed 'y/1234567890ßqwertzuiopüasdfghj!"§$%&\/()=?QWERTZUIOPÜASDFGHJ/qwertzuiopüasdfghjklöäyxcvbnmQWERTZUIOPÜASDFGHJKLÖÄYXCVBNM/'

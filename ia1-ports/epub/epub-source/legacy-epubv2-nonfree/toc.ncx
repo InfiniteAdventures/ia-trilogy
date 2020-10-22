@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="deu">
+	<head>
+		<meta content="07fd6e16-6965-45ea-97e2-eb8d3cfde469" name="dtb:uid"/>
+		<meta content="3" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Infinite Adventures</text>
+	</docTitle>
+	<navMap>
+		<navPoint class="chapter" id="ubWA2jDJera9VVwsrVuPmYB" playOrder="1">
+			<navLabel>
+				<text>Infinite Adventures, Teil 1</text>
+			</navLabel>
+			<content src="infiniteadventures-legacy.xhtml"/>
+			<navPoint class="chapter" id="uO28BTNRmKiImu3hqzcbl56" playOrder="2">
+				<navLabel>
+					<text>Ein Apfel mit Folgen</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#ein-apfel-mit-folgen"/>
+			</navPoint>
+			<navPoint class="chapter" id="usWqm3mr4Pn6VwPc8iyp8zE" playOrder="3">
+				<navLabel>
+					<text>Von Mallorca nach New York</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#von-mallorca-nach-new-york"/>
+			</navPoint>
+			<navPoint class="chapter" id="uS4gFo3JmuGLZG4vRsgmpe4" playOrder="4">
+				<navLabel>
+					<text>Spontaner Ausflug</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#spontaner-ausflug"/>
+			</navPoint>
+			<navPoint class="chapter" id="urWSzlCCKDpbcXdysUMDHi5" playOrder="5">
+				<navLabel>
+					<text>Chaos in Südafrika</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#chaos-in-suedafrika"/>
+			</navPoint>
+			<navPoint class="chapter" id="u7q9TMzeDobBKOaQGVSY6FD" playOrder="6">
+				<navLabel>
+					<text>Die Chinesische Mauer</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#die-chinesische-mauer"/>
+			</navPoint>
+			<navPoint class="chapter" id="uFMLvKl8vqgC9VG87PfJctC" playOrder="7">
+				<navLabel>
+					<text>Alexandra</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#alexandra"/>
+			</navPoint>
+			<navPoint class="chapter" id="utccGutXHIa7xkK56KBVHwB" playOrder="8">
+				<navLabel>
+					<text>Überfall auf Fort Knox</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#ueberfall-auf-fort-knox"/>
+			</navPoint>
+			<navPoint class="chapter" id="u7cmOgqFvmInoLFqMt3dHyC" playOrder="9">
+				<navLabel>
+					<text>Die Höhle des Löwen</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#die-hoehle-des-loewen"/>
+			</navPoint>
+			<navPoint class="chapter" id="uedxvrvnMLhvAkVyCxyAu7C" playOrder="10">
+				<navLabel>
+					<text>Greater Sudbury</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#greater-sudbury"/>
+			</navPoint>
+			<navPoint class="chapter" id="uRJkIDtvoq3wxhe3khQgQ2C" playOrder="11">
+				<navLabel>
+					<text>Zugriff</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#zugriff"/>
+			</navPoint>
+			<navPoint class="chapter" id="uBqrPL8NRqGcfJmFdTRZH92" playOrder="12">
+				<navLabel>
+					<text>Ein neuer Plan</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#ein-neuer-plan"/>
+			</navPoint>
+			<navPoint class="chapter" id="u9swP2he2Dt2J8N7aLAdbx3" playOrder="13">
+				<navLabel>
+					<text>Diebstahl der Mona Lisa</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#diebstahl-der-mona-lisa"/>
+			</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="ueK2b5f2kYghdOLxKk4XueG" playOrder="14">
+			<navLabel>
+				<text>Infinite Adventures, Teil 2</text>
+			</navLabel>
+			<content src="infiniteadventures-legacy.xhtml#die-erde-ist-nicht-genug"/>
+			<navPoint class="chapter" id="uRBj5hGt9bRVWEMuSmlojS8" playOrder="15">
+				<navLabel>
+					<text>Die Reise durch das Universum</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#die-reise-durch-das-universum"/>
+			</navPoint>
+			<navPoint class="chapter" id="u275CXZmB3lqa9HI6ozK7HE" playOrder="16">
+				<navLabel>
+					<text>Örz</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#oerz"/>
+			</navPoint>
+			<navPoint class="chapter" id="ueIRJYYKBJ5LDg38r2Wn3W8" playOrder="17">
+				<navLabel>
+					<text>Bänänäs &amp; Äpölz</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#baenaenaes-aepoelz"/>
+			</navPoint>
+			<navPoint class="chapter" id="uXgnreZMHMhTecf2FkpGEm8" playOrder="18">
+				<navLabel>
+					<text>Notruf im All</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#notruf-im-all"/>
+			</navPoint>
+			<navPoint class="chapter" id="u3dbDUqVc6XHra5xy7cqsg2" playOrder="19">
+				<navLabel>
+					<text>Scherben und geschmolzenes Eisen</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#scherben-und-geschmolzenes-eisen"/>
+			</navPoint>
+			<navPoint class="chapter" id="ugTbVCNONX6zUYf6OR7fXW6" playOrder="20">
+				<navLabel>
+					<text>Papierflieger mit Lasern</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#papierflieger-mit-lasern"/>
+			</navPoint>
+			<navPoint class="chapter" id="uNuUUwUyyogYIyzOXTHnvjD" playOrder="21">
+				<navLabel>
+					<text>der derair</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#der-derair"/>
+			</navPoint>
+			<navPoint class="chapter" id="uYfYuKfsbZ9ZAYOTKNOs5AA" playOrder="22">
+				<navLabel>
+					<text>Island hat ein Problem</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#island-hat-ein-problem"/>
+			</navPoint>
+			<navPoint class="chapter" id="uh2hITKZIyu4kfWrS4VdDfD" playOrder="23">
+				<navLabel>
+					<text>Gut gemeint</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#gut-gemeint"/>
+			</navPoint>
+			<navPoint class="chapter" id="uHMKWfTNQCgxIzmaUiMS2P9" playOrder="24">
+				<navLabel>
+					<text>Hyperthermogeneration</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#hyperthermogeneration"/>
+			</navPoint>
+			<navPoint class="chapter" id="uTjPqwsIYQ8bI9JfiySQLV9" playOrder="25">
+				<navLabel>
+					<text>Mad Island</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#mad-island"/>
+			</navPoint>
+			<navPoint class="chapter" id="u8CJznTtVpi3cztCm5ivJv3" playOrder="26">
+				<navLabel>
+					<text>Eine Seele mit Minderwertigkeitskomplex</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#eine-seele-mit-minderwertigkeitskomplex"/>
+			</navPoint>
+			<navPoint class="chapter" id="ufu9bFe6H9U8cYUbC4ATwQA" playOrder="27">
+				<navLabel>
+					<text>Das Auge Gottes</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#das-auge-gottes"/>
+			</navPoint>
+			<navPoint class="chapter" id="u7VSqUwDEoLeiCmHbu5YRW9" playOrder="28">
+				<navLabel>
+					<text>Insurrection à la Äöüzz</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#insurrection-a-la-aeoeuezz"/>
+			</navPoint>
+			<navPoint class="chapter" id="uYyJv5lPtHt5rX7dNQnU8d4" playOrder="29">
+				<navLabel>
+					<text>Thilo Alfred</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#thilo-alfred"/>
+			</navPoint>
+			<navPoint class="chapter" id="urGv6UApSH3AHzclWgjhqXG" playOrder="30">
+				<navLabel>
+					<text>Willkommen in den USA</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#willkommen-in-den-usa"/>
+			</navPoint>
+			<navPoint class="chapter" id="u5LWo9naW4penycNV2HcjhA" playOrder="31">
+				<navLabel>
+					<text>Intermezzo</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#intermezzo"/>
+			</navPoint>
+			<navPoint class="chapter" id="uGXbVIudzeAdPy2jryWqByB" playOrder="32">
+				<navLabel>
+					<text>HPW Industries</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#hpw-industries"/>
+			</navPoint>
+		</navPoint>
+		<navPoint class="chapter" id="ugJVUc6lKQuzLwunUSAYaHE" playOrder="33">
+			<navLabel>
+				<text>Bonusmaterial</text>
+			</navLabel>
+			<content src="infiniteadventures-legacy.xhtml#bonusmaterial"/>
+			<navPoint class="chapter" id="uiP5KLpin6dHntgiegvOo5F" playOrder="34">
+				<navLabel>
+					<text>Titelmelodie der Infinite Adventures</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#titelmelodie-der-infinite-adventures"/>
+			</navPoint>
+			<navPoint class="chapter" id="uoBDmnr2mBJJzkeZ8AWggE7" playOrder="35">
+				<navLabel>
+					<text>Musikliste</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#musikliste"/>
+			</navPoint>
+			<navPoint class="chapter" id="uLuwULArqyLycbDZ6ih2Pk6" playOrder="36">
+				<navLabel>
+					<text>Kleines Lexikon</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#kleines-lexikon"/>
+			</navPoint>
+			<navPoint class="chapter" id="uyMeVNwtdo6VyteKAKwj2nC" playOrder="37">
+				<navLabel>
+					<text>Orakels Zeichnungen</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#orakels-zeichnungen"/>
+			</navPoint>
+			<navPoint class="chapter" id="uFEKy6KdQWqsoLkg6YpFDL4" playOrder="38">
+				<navLabel>
+					<text>Karte der Galaxis</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#karte-der-galaxis"/>
+			</navPoint>
+			<navPoint class="chapter" id="uwY4TSINcJhDFZz8Af45IT8" playOrder="39">
+				<navLabel>
+					<text>Auszug: Original-Forenthread</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#auszug-original-forenthread"/>
+			</navPoint>
+			<navPoint class="chapter" id="uuGjWEwOzxoMRtj2l7cqakB" playOrder="40">
+				<navLabel>
+					<text>Bildquellen</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#bildquellen"/>
+			</navPoint>
+			<navPoint class="chapter" id="uUcBcZ4XZfBAwo5LuXqVFy7" playOrder="41">
+				<navLabel>
+					<text>Lizenz des Buchinhalts</text>
+				</navLabel>
+				<content src="infiniteadventures-legacy.xhtml#lizenz-des-buchinhalts"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

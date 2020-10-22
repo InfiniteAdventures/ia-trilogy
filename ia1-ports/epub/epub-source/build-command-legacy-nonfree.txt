@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "legacy-epubv2-nonfree"
+zip -X0 "../infiniteadventures-legacy-epubv2-nonfree.epub" "mimetype"
+zip -Xr "../infiniteadventures-legacy-epubv2-nonfree.epub" *

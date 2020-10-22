@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<dc:title id="id">Infinite Adventures</dc:title>
+		<dc:creator id="id-1">Mirco Hensel, yury, Tobias Frei, infiniteadventures.de</dc:creator>
+		<dc:identifier id="uuid_id">uuid:f207bfa1-421a-470d-90cc-3c35cf0d8b05</dc:identifier>
+		<dc:date>2019-04-01T00:00:01+00:00</dc:date>
+		<dc:language>de</dc:language>
+		<dc:subject>absurd</dc:subject>
+		<dc:subject>verrückt</dc:subject>
+		<dc:subject>Weltreise</dc:subject>
+		<dc:subject>Helikopter</dc:subject>
+		<dc:subject>Diebstahl</dc:subject>
+		<dc:subject>Fort Knox</dc:subject>
+		<dc:subject>Mona Lisa</dc:subject>
+		<meta refines="#id" property="title-type">main</meta>
+		<meta refines="#id" property="file-as">Infinite Adventures</meta>
+		<meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+		<meta property="file-as" refines="#id-1">Mirco Hensel, yury, Tobias Frei, infiniteadventures.de</meta>
+		<meta property="belongs-to-collection" id="id-2">Infinite Adventures</meta>
+		<meta refines="#id-2" property="collection-type">series</meta>
+		<meta refines="#id-2" property="group-position">1</meta>
+		<meta property="dcterms:modified" scheme="dcterms:W3CDTF">2019-04-01T00:00:01Z</meta>
+	</metadata>
+	<manifest>
+		<item href="cover.jpeg" id="cover" media-type="image/jpeg" properties="cover-image"/>
+                <item href="infiniteadventures.xhtml" id="html" media-type="application/xhtml+xml"/>
+		<item href="z-include-small-forum.jpg" id="z-include-small-forum" media-type="image/jpeg"/>
+		<item href="z-include-small-galaxymap1.jpg" id="z-include-small-galaxymap1" media-type="image/jpeg"/>
+		<item href="z-include-small-galaxymap2.jpg" id="z-include-small-galaxymap2.jpg" media-type="image/jpeg"/>
+                <item href="z-include-small-ia1cover.jpg" id="z-include-small-ia1cover" media-type="image/jpeg"/>
+		<item href="z-include-small-ia1part2cover.jpg" id="z-include-small-ia1part2cover" media-type="image/jpeg"/>
+		<item href="z-include-small-iatheme1.png" id="z-include-small-iatheme1" media-type="image/png"/>
+		<item href="z-include-small-iatheme2.png" id="z-include-small-iatheme2" media-type="image/png"/>
+		<item href="z-include-small-lagrange.jpg" id="z-include-small-lagrange" media-type="image/jpeg"/>
+		<item href="z-include-small-ngc6193.jpg" id="z-include-small-ngc6193" media-type="image/jpeg"/>
+		<item href="z-include-small-ngc6334.jpg" id="z-include-small-ngc6334" media-type="image/jpeg"/>
+		<item href="z-include-small-ngc7293.jpg" id="z-include-small-ngc7293" media-type="image/jpeg"/>
+		<item href="z-include-small-oleerfahrt.jpg" id="z-include-small-oleerfahrt" media-type="image/jpeg"/>
+		<item href="z-include-small-omotion.jpg" id="z-include-small-omotion" media-type="image/jpeg"/>
+		<item href="z-include-small-squaremap1.jpg" id="z-include-small-squaremap1" media-type="image/jpeg"/>
+		<item href="z-include-small-squaremap2.jpg" id="z-include-small-squaremap2" media-type="image/jpeg"/>
+		<item href="fonts/libertine/linbiolinum_r.otf" id="linbiolinum_r" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linbiolinum_rb.otf" id="linbiolinum_rb" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linbiolinum_ri.otf" id="linbiolinum_ri" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linlibertine_m.otf" id="linlibertine_m" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linlibertine_r.otf" id="linlibertine_r" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linlibertine_rb.otf" id="linlibertine_rb" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linlibertine_rbi.otf" id="linlibertine_rbi" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/libertine/linlibertine_ri.otf" id="linlibertine_ri" media-type="application/vnd.ms-opentype"/>
+                <item href="fonts/libertine/ofl-1.1.txt" id="font-ofl-1-1" media-type="text/plain"/>
+                <item href="fonts/libertine/gpl.txt" id="font-gpl" media-type="text/plain"/>
+                <item href="fonts/libertine/license.txt" id="font-license" media-type="text/plain"/>
+                <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine>
+		<itemref idref="html"/>
+	</spine>
+</package>

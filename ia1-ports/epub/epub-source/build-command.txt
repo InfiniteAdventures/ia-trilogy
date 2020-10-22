@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "infiniteadventures-epub"
+zip -X0 "../infiniteadventures.epub" "mimetype"
+zip -Xr "../infiniteadventures.epub" *
