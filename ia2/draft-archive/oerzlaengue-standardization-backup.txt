@@ -1,0 +1,78 @@
+IN DIESER SICHERUNGSDATEI WURDEN KOMMENTARE ENTFERNT.
+ES HANDELT SICH MOMENTAN NUR UM EINE NOTFALL-SICHERUNG.
+
+
+== Copyright ==
+
+Sprachen sind urheberrechtlich nicht geschützt; diese Standard-Beschreibung veröffentlichen wir, falls überhaupt notwendig, unter der CC0-Lizenz (Public Domain / Creative Commons Zero).
+
+== Standard-Entwurf: Örzlängü ==
+
+=== Grundlage und Beispielsatz ===
+
+Örzlängü ist eine Sprache, die aus grammatikalisch und typografisch korrektem Englisch abgeleitet wird. Zur Konstruktion eines Örzlängü-Satzes muss, falls nicht absichtlich Schreib- oder Sprechfehler dargestellt werden sollen, ein korrekter englischsprachiger Satz als Grundlage verwendet werden. Als Beispiel für die in diesem Standard beschriebenen Umformungen soll der folgende Absatz dienen; dieser wird während dieser Entwurfsphase stets so erweitert, dass er sämtliche Regeln beispielhaft darstellt.
+
+Quellsatz: "This sentence has been written in English. There has been a critical disaster at 4-6692's upcoming travel destination: A spaceship crashed after being completely perforated by hostile cannon fire."
+
+Ergebnis in Örzlängü: "Däzä säntänz häs been writtön in Örzlängü. Där häs been ä krjtikül djsästör ät 4-6692's üpköming trävel destinätiön: Ä späzshüp kräshd äftör being kömpletlü perförätd bä höstil kännön fär."
+
+=== Regeln zur Umformung ===
+
+==== Ersetzungstabelle ====
+
+Regeln:
+
+* o --> ö
+* a --> ä
+* u --> ü
+* y --> ü
+* c --> k oder z, je nach Aussprache
+* e --> e, ä, ö (je nachdem, wie es gut klingt/aussieht)
+* i --> i, j, ä, ü (je nachdem, wie es gut klingt/aussieht)
+* th (stimmhaft) --> d
+* th (stimmlos) --> s
+* -ed --> -d
+* -ing --> -jng (außer in Floating Island, s.u.)
+* -e --> (entfernen)
+* -e- --> (manchmal entfernen, z. B. somehow --> sömhöw)
+* ex- --> äx-
+
+(Es gibt allerdings im Sinne des Lustig-Aussehens und Gut-Klingens auch Abweichungen von den Regeln, z. B. "krjtikül" statt "krjtikäl" oder "mörgnözy" statt "emörgenzü". Siehe auch unten)
+
+
+Ganze Ausdrücke:
+
+* English --> Örzlängü
+* Floating Island --> Flöätin Äländ
+* a --> ä
+* an --> än
+* the --> dä
+* are --> är
+* out --> öt
+* by --> bä
+* it is --> äzä
+* this --> däzä
+* there --> där
+* them --> däm
+* with --> wüs
+* because --> bekööz
+* disaster --> djsästör
+* (hu)mankind --> Äöüzzkänd
+* last --> läzzä
+* word --> wörzz
+* infinite --> infinü
+* (Ausruf der Begeisterung) --> Özööööööööööööööööö!
+
+
+Problemausdrücke, die dem Englischen noch zu ähnlich sind:
+
+* generell alle Ausdrücke mit vielen e's und i's, die nicht leicht zu ersetzen sind
+* be
+* been
+* week
+* seem
+* keep
+* secret
+* (s)he
+* high
+* in

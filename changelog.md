@@ -1,5 +1,15 @@
 # Infinite Adventures
 
+## 1.7.0
+
+* IA2: 70% done
+* IA2 part 1 preview released
+* IA2 part 2 split to separate development ("dev") git branch
+* Main branch renamed to "main"
+* Repository rebuilt
+
+~ToBeFree 2020-10-23
+
 ## 1.0.2 rebuild
 
 No files have been modified.

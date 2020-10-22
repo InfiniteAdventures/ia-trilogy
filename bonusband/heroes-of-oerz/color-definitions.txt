@@ -1,0 +1,20 @@
+"Black": RGB 000/000/000
+
+"Blue 1": RGB 153/153/255
+"Blue 2": RGB 051/051/255
+"Blue 3": RGB 000/000/255
+"Blue 4": RGB 000/000/204
+"Blue 5": RGB 000/000/153
+"Blue 6": RGB 000/000/102
+
+"Sky Blue 6": RGB 000/000/128
+
+
+Outline of certificate: Blue 6, RGB 000/000/102
+Outline of star: Blue 6, RGB 000/000/102
+Area of star: Blue 5, RGB 000/000/153
+
+Text color of "Örz Institüte för Interstellär Cömmünicätiön": Black, RGB 000/000/000
+Font of "Örz Institüte för Interstellär Cömmünicätiön": Berkshire Swash Bold. Berkshire Swash has no real "bold" style.
+Text color of heading: Black, RGB 000/000/000
+

@@ -1,0 +1,838 @@
+Dies ist der Inhalt des alten IA-Wikis. Er bezieht sich auf die unlektorierte Grundausgabe der Infinite Adventures.
+
+Dieses Dokument ist fiktional, vollkommen verrückt und nicht zum Lesen empfohlen. Wir haben es aber nicht übers Herz gebracht, es zu löschen.
+
+Alle Rechte vorbehalten. Nicht frei lizenziert. Ursprünglich geschrieben von yury und ToBeFree.
+
+----
+
+= 4244.txt =
+
+== 4244 - Galaxie des Planeten Örz ==
+
+[[http://de.wikipedia.org/wiki/NGC_4244|4244]] ist die Galaxie, in der sich unter anderem die Planeten [[Örz|Örz]], [[ugghy|ugghy]] und [[Rmgölps|Rmgölps]] befinden.
+
+Interessanterweise nennen die [[Äöüzz|Äöüzz]] diese Galaxie bei der Erteilung des Aufenthaltsrechtes auf Örz ebenfalls "4244", das kann aber auch an dem Übersetzungsgerät liegen, das die [[Özlängü|Özlängü]]-Bezeichnung eventuell in die fremde Sprache übersetzt hat.
+
+= aeoeue.txt =
+
+== Äö (oder) ü ==
+
+"Ä, ö oder ü" bzw. "Äöü" scheint in der Sprache der [[Äöüzz|Äöüzz]] "essen" oder "Essen" zu bedeuten.
+Jedenfalls bringen die Wesen den vier Hauptcharakteren jedes Mal etwas zu Essen, wenn diese aus Versehen diese Buchstabenkombination aussprechen.
+Es ist nicht bekannt, ob man es so aussprechen muss wie in den Sätzen in den IA ("Ä, ö oder ü"), oder ob die Wesen von dem Wortsalat nur ein "äöü" verstehen.
+
+= aeoeuezz.txt =
+
+== Äöüzz ==
+
+Die Äöüzz sind Wesen mit drei Augen, auch wenn das nach Meinung der meisten Wissenschaftler auf der Erde komplett unlogisch ist (wegen dreidimensionaler Sicht etc.). Zwei Augen sind dort, wo bei einem Menschen die Wangen sind, ein Auge ist dort, wo bei einem Menschen die Nase ist. Darüber, auf der "Stirn", ist der Mund, wenn man es so nennen will.
+
+[[yury|yury]] vermutet, dass diese Wesen mit ihrer Zunge riechen können, fast wie bei Schlangen auf der Erde. Diese Vermutung beruht einfach darauf, dass diese Wesen (zumindest im Gesicht, und die Wesen tragen Kleidung) kein sichtbares Organ besitzen, das zum Riechen geeignet wäre.
+
+Die Äöüzz haben die [[Örzzplänätüüz|Planetenraketen]] erfunden und sind unter anderem dadurch (aber auch durch ihre überlegene Warp- und Energieregenerationstechnologie, die es ihnen ermöglicht, das CO2 und andere Stoffe aus der Luft zusammen mit [[Örzgen|Örzgen]] oder [[Al-Superraketentreibstoff|Al-Superraketentreibstoff]] in unglaubliche Mengen an Strom umzuwandeln) eines der mächtigsten Imperien im gesamten Universum.
+
+Die [[Äöüzz-Waffen|Waffen-]] und [[Raumschifftypen der Äöüzz|Raumschiff]]technologie der Äöüzz ist unglaublich fortgeschritten (selbst ein Erkundungsraumschiff wie [[4-6692|das von yury]] ist dazu in der Lage, fremde Kriegsraumschiffe schnell zu zerstören), aber die [[uggy-Raumpolizei|uggy-Raumpolizei]] besitzt einen [[achteckiger uggy-Raketenwerfer|speziellen Raketentyp]], der auf [[Äöüzz-Standardkampfraumschiff|Äöüzz-Standardraumschiffe]] abgestimmt wurde und eine Flucht unmöglich macht. Nur ein [[Superdästräüär|Superdästräüär]] kann es alleine mit einem [[uggy-Polizeiraumschiff|uggy-Polizeiraumschiff]] aufnehmen.
+
+== Wörter in der Sprache der Äöüzz ==
+
+Bekannt sind: [[Gnörüüüüräz!|Gnörüüüüräz!]], [[Äöü|Äöü]], [[oerzdoeg|Örzdög]], [[aeueoeruezue|Äüörüzü]], [[oerzdaeuwn|Örzdäuwn]], [[maekuoewnoerztaeps|Mäkuöwnörztäps]], [[oerztempz|Örztempz]], [[oezlaengue|Özlängü]], [[oerzkloek|Örzklök]], Däktöinär.
+
+Siehe auch [[woerterbuch_oezlaengue_deutsch|Wörterbuch Özlängü - Deutsch]].
+
+= aeueoeruezue.txt =
+
+=== Äüörüzü ===
+
+Ein Äüörüzü ist ein Haustier auf dem Planeten Örz.
+
+Es verhält sich ähnlich wie eine Erd-Katze, ist aber blau-schwarz gepunktet gepunktet und hat drei Augen genau wie die [[aeoeuezz|Äöüzz]].
+
+= alexandra.txt =
+
+=== Alexandra ===
+
+Alexandra ist die **einzige** Hauptcharakterin der IA, die nicht zu einem Autor und vielleicht sogar dessen Real-Life-Charaktereigenschaften gehört.
+Alexandra taucht zum ersten Mal in einem Gefängnis auf (siehe [[Einführung Alexandra|Einführung Alexandra]] und [[Das Gefängnis in China|Das Gefängnis in China]]), in das sie wegen der Sprengung eines Kaugummiautomaten gekommen ist.
+
+Kurz nach ihrer [[einfuehrung_alexandra|Einführung]] ist yury anscheinend in Alexandra verliebt, was später nicht mehr erwähnt wird.
+
+= beitritt-yury.txt =
+
+[[yury|Yury]] tritt den Infinite Adventures kurz nach deren Beginn bei.
+
+Als Orakel und Free sich hinter einer Hütte verstecken, weil sie von der Polizei gesucht werden, lernen Free und Orakel yury kennen. Dieser hatte sie bereits vorher beobachtet, war aber nicht mit ihnen in Kontakt getreten.
+
+= bright-mountain.txt =
+
+=== Bright Mountain ===
+
+Bright Mountain ist ein FBI-Agent.
+
+[[free|Free]], [[orakel|Orakel]] und [[yury|yury]] lernen ihn kennen, als sie den [[ueberfall_auf_fort_knox|Überfall auf Fort Knox]] planen, was Bright Mountain zu sabotieren versucht. Er plaziert eine Zeitbombe im Helikopter der drei Protagonisten ([[alexandra|Alexandra]] ist zu dem Zeitpunkt noch nicht in den IA vertreten) und telefoniert mit [[wolfgang|Wolfgang]], als yury laut hustet und der Agent somit auf die drei aufmerksam wird.
+
+In Teil 2 freundet sich Free per E-Mail mit Bright Mountain an.
+
+Unklar ist, ob Bright Mountain und [[floating_island|Floating Island]] dieselbe Person sind.
+
+= chemieserver-des-fbi.txt =
+
+== Der Chemieserver des FBI ==
+
+Der Chemieserver des FBI muss per HTTP vom [[The Ult1mate chem1c4l $cann0r|$cann0r]] oder von einer manuellen Mainschleife des [[T.H.I.N.G.S.B.O.O.M.S|THINGSBOOMS]] angesteuert werden. Wenn Fehler auftreten, werden diese entsprechend auch in HTTP-Fehlercodes gesendet.
+
+Durch eine von [[Floating Island|Floating Island]] für [[free|Free]] eingebaute Schwachstelle im Server (Er hat das Passwort für den Account "FBIscann0r" auf "%s" gesetzt. Aus technischen Gründen probiert der noch nicht ganz perfekte $cann0r als allererstes dieses Passwort aus -- und hat Erfolg.) kann [[Alexandra|Alexandra]] seit der Erfindung des [[al-superraketentreibstoff|Al-Superraketentreibstoffes]] auf streng geheime chemische Daten und Formeln des FBI zugreifen.
+
+= china-stau.txt =
+
+== Der Stau in China ==
+
+Der Stau in China stoppt yury, Orakel und [[free|Free]] auf der Flucht vor der chinesischen Polizei. Die drei waren gerade in [[Orakels Reisebus|Orakels Reisebus]] unterwegs, als sie verhaftet wurden. Dies war auch der Moment, in dem Free zum letzten Mal gegen [[Floating Island|Floating Island]] gearbeitet hat.
+
+= das-gefaengnis-in-china.txt =
+
+== Das Gefängnis in China ==
+
+Das Gefängnis in China ist der Ort der ersten Begegnung mit Alexandra. Die bis dahin drei Hauptcharaktere yury, Orakel und Free geraten durch einen [[China-Stau|Stau]] auf der Flucht mit einem [[Orakels Reisebus|Reisebus]] in die Fänge der Polizei. Durch den [[flugshow-fake|Flugshow-Fake]] kommt jede Rettung zu spät und die drei müssen wohl oder übel ins Gefängnis. Dort [[einfuehrung_alexandra|begegnen]] sie Alexandra, die dort mit einer Biene spielt und "sich freut, wenn die Biene auf dem Rücken liegt" und ihnen später zum Ausbruch verhilft.
+Free hat im Gefängnis eine Einzelzelle, deren Wand durch die Explosion zum Glück teilweise mitgesprengt wird. Dabei wird yury ohnmächtig und Free fliegt durch die Wucht von der einen Wand der Nachbarzelle gegen die gegenüberliegende.
+
+=== Kleine Unlogik ===
+
+In den IA wird nicht näher auf Frees Fußfesseln im Gefängnis eingegengen, es gibt nur einen Satz: "...und habe wunderschöne Fußfesseln!" von Free.
+Da diese Fußfesseln nach der Flucht nicht mehr existieren, liegt die Vermutung nahe, dass sie bei der Explosion abgeflogen sind. Eine andere Möglichkeit wäre, dass diese kurz nach der Flucht im Helikopter entfernt wurden. Diese Möglichkeit ist aber eher unwahrscheinlich, weil die Flucht mit den Fußfesseln wohl nicht so schnell aubgelaufen wäre.
+
+= diebstahl-der-mona-lisa.txt =
+
+== Der Diebstahl der Mona Lisa ==
+
+Die Idee zum Diebstahl der Mona Lisa kommt Alexandra, kurz nachdem die Powerraupe entstanden ist und Free damit genervt hat, auf [[frees_laptop|seinem Laptop]] herumzulaufen.
+
+Der nicht besonders realistische Plan wird letztendlich von Orakel und Free ausgeführt. Die beiden gehen getrennt in das Museum, warten an der Mona Lisa, bis niemand davorsteht, schalten einen Störsender ein, der die Alarmanlage stören soll und dessen Signal von den Wachmännern zwar wahrgenommen, aber auf Orakels MP3-Player zurückgeführt wird, und Orakel tauscht dann das Original gegen eine vorbereitete Fälschung aus. Als Orakel und Free in Richtung Ausgang gehen, bemerkt einer der Wachmänner die Fälschung. Free und Orakel können knapp entkommen und fliehen mit dem Helikopter.
+
+= einfuehrung-alexandra.txt =
+
+== Begegnung Alexandra ==
+
+Alexandra begegnet den bis zu diesem Zeitpunkt drei Hauptcharakteren des Spieles, woraufhin sich die Anzahl der Hauptcharaktere auf 4 erhöht.
+
+Dies passiert im [[Das Gefängnis in China|Gefängnis in China]], wo sie den dreien dabei hilft, auszubrechen (sie hat Dynamit dabei).
+
+Über den Namen der 4. Hauptperson haben wir lange abgestimmt (in der Zeit waren die IA geschlossen) und sind schließlich auf Alexandra gekommen.
+
+= floating-island.txt =
+
+== Floating Island ==
+
+Floating Island ist ein FBI-Agent. Er begegnet yury, Orakel und Free zum ersten Mal in der [[schwimmende Etage|schwimmenden Etage]], nachdem die drei die [[TMPE|TMPE]] zerstört haben.
+
+Floating Islands (Be-)Ruf als FBI-Agent wird an einigen, frühen Stellen der IA von den dreien (Alexandra kommt erst später dazu) hemmungslos ausgenutzt, am meisten aber von Free, der dem Chef weismacht, er sei Floating Island und brauche dringend einen [[Mil-Mi 26|guten Helikopter]].
+Das ändert sich, als Free zum letzten Mal die Stimme von Floating nachmacht, in China. Das Resultat ist eine [[Flugshow-Fake|Flugshow]] anstatt der gehofften Heliarmee und der darauf folgende Aufenthalt der drei im [[Das Gefängnis in China|Gefängnis in China]].
+
+Nach der Befreiung aus dem Gefängnis und der Flucht aus China mit einem geklauten Geheimdiensthelikopter, der nun endlich vor dem Gefängnis wartete, freundet sich Free per E-Mail mit Island an. Ungefähr zu dem Zeitpunkt, an dem Alexandra ihren [[Al-Superraketentreibstoff|Super-Raketentreibstoff]] erfunden hatte, erreichte Free als Gegenleistung für die PC-Tipps per E-Mail den Zugang zum FTP-Server. Als Alexandra dann den Stoff mit dem [[The Ult1mate Chem1c4l $cann0r|$cann0r]] untersuchen ließ, schaltete sich dessen Hackfunktion ein. Der nun unverschlüsselte Zugang zum FBI-Server wurde von dem Tool in kurzer Zeit geknackt und Alexandra bekam Infos zu dem Stoff -- direkt vom internen FBI-Server.
+
+Aus einem Telefonat zwischen Island und Wolfgang gehen einige Infos hervor:
+  * Islands echter Name ist "Marco Schreiner".
+  * Weitere Infos stehen bei [[Wolfgang|Wolfgang]].
+
+Unklar ist, ob Floating Island und [[bright_mountain|Bright Mountain]] dieselbe Person sind.
+
+= flugshow-fake.txt =
+
+== Der Flugshow-Fake ==
+
+Der Flugshow-Fake ist ein gutes Beispiel für das, was passieren kann, wenn sich Autoren beim Schreiben eines Buches an einer Stelle nicht einig sind und das einfach so in das Buch einbauen, dass gestartete Vorgänge aus irgendeinem Grund fehlschlagen oder "nicht echt waren".
+
+Free hatte in seinem Beitrag geschrieben, dass auf einmal der Himmel von einer Heliarmee verdunkelt wurde, die absolut übermächtig war und, wenn die Idee weitergeführt worden wäre, für die chinesische Polizei das Ende gewesen wäre.
+
+Daraufhin schrieb yury allerdings etwas von "Doch plötzlich drehten die Helikopter um. 'Na toll, eine Flugshow!', meinte Orakel." Dann wurden sie ins [[Das Gefängnis in China|Gefängnis]] abgeführt, wo sie [[alexandra|Alexandra]] kennen lernten und durch ihre Hilfe ausbrachen.
+
+= freak-angaben.txt =
+
+== "Freak-Angaben" ==
+
+Die meisten [[Zahlen|Zahlen]] oder auch bestimmte Ereignisse sind Insiderwitze.
+
+Ein Beispiel für die Zahlen sind die [[oerzkloek|Örzklöks]], da 42 Örzklöks ziemlich genau einer Minute entsprechen.
+
+In [[Teile|Teil 2]] (siehe auch: [[Teile|Teile]]) sagt ein [[Äöüzz|Äöüzz]] beim Verlassen eines Raumschiffes: //"Äzä ön smöl stäp pür ön Äöüzz, ön gäiönt liüp pür Örzkänd"//, was sich beim Aussprechen so ähnlich anhört wie "It's an small step for an Äöüzz, a giant leap for Örzkind" (//Das ist ein kleiner Schritt für einen Äöüzz, ein großer Sprung für die (Örzheit)-> gesamten Äöüzz//).
+Das Original kam in dem Fall von Neil Amstrong, als dieser als erster Mensch den Mond betrat.
+
+Weitere Beispiele für die Ähnlichkeit der Özlängü mit Englisch sind das Abrissunternehmen [[oerzdaeuwn|Örzdäuwn]], welches als Örz-down gelesen werden könnte, der [[oerzdoeg|Örzdög]] ("Örz-dog"), der Laden [[maekuoewnoerztaeps_laden|Mäkuöwnörztäps]] ("make you own Örz-tops"), die Maßeinheit [[oerztempz|Örztempz]] ("Örz-temperature"), das Däktöinär ("dictionary", "dictionnaire"), die [[oerzkloek|Örzklöks]] ("Örz-clocks") und die [[oezlaengue|Özlängü]] selbst ("Örz-language").
+
+= frees-laptop.txt =
+
+== Frees Laptop ==
+
+Free besitzt im Laufe der Zeit verschiedene Laptops, die jedoch immer auf dem neuesten technischen Stand und sehr wertvoll sind. Er möchte nicht, dass andere Leute herausfinden, welche technischen Daten die Computer haben, und ärgert sich deswegen, als yury irgendwann während der Vorbereitung auf [[ueberfall_auf_fort_knox|Fort Knox]] FIXME herausfindet, was in Sonics Laptop steckt.
+
+= free.txt =
+
+Free ist einer der Hauptcharaktere der IA. Er ist ein Technik-, Computer- und Elektronikfreak und war unter anderem für die Autopilotenprogrammierung für den [[Überfall auf Fort Knox|Überfall auf Fort Knox]] zuständig.
+
+Free ist kein Multitalent, sondern hat seine Stärken in einzelnen Bereichen wie z.B. den Computern. Er hat fast immer und überall irgendein Gerät dabei (meistens seinen [[Sonics Speziallaptop|Speziallaptop]], es sind allerdings auch bereits Tablet-PCs und GPS-Geräte wie z.B. das [[T.H.I.N.G.S.B.O.O.M.S|T.H.I.N.G.S.B.O.O.M.S.]] bei ihm gesehen worden), mit dem man im Internet surfen kann und programmieren kann.
+
+Außerdem hat Free einen Feind: Den FBI-Agenten [[Bright Mountain|Bright Mountain]], der es gewagt hat, per Van-Eck-Phreaking mehrere Tage lang den Inhalt seines Laptopbildschirms auszuspionieren; dafür ist er allerdings per (natürlich verschlüsselter) E-Mail mit [[Floating Island|Floating Island]] in Kontakt (Free hilft Island per Remotedesktopverbindung am PC und bekommt als Gegenleistung Zugriff auf den [[Chemieserver des FBI|Chemieserver des FBI]]).
+
+Auf [[Örz|Örz]] hat Free den Job, sogenannte "[[Mäkuöwnörztäps|Mäkuöwnörztäps]]" (er kürzt das mit "Mörztops" ab) zu reparieren. Er muss eventuell entstehende Schäden selbst bezahlen, bekommt aber auch viel Geld, wenn er es schafft, einen zu reparieren.
+
+Free scheint süchtig nach Microsofts Pinball-Spiel zu sein, was etwas verwunderlich ist, da er in den IA oft Linux benutzt - wahrscheinlich handelt es sich um einen Open-Source-Klon oder eine mit WINE ausgeführte Originaldatei. [[Überfall auf Fort Knox|Einmal]] baut er sogar die Steuerung eines Helikopters in ein Pinballspiel ein.
+
+= glugg.txt =
+
+== Glugg ==
+
+Glugg ist ein von den [[Äöüzz|Äöüzz]] bisher noch unentdeckter Planet (falls er überhaupt existiert) auf dem von den Äöüzz eigentlich bereits kartographierten Gebiet.
+
+Glugg tauchte bisher nur einmal in einer [[oerzfresh:oerzfresh|Örz⬗Fresh]]-Ausgabe als Teil einer Universenkarte von [[souloftheinternet|Soul of the Internet]] in der Infobox auf.
+
+**//Die Existenz dieses Planeten ist unwahrscheinlich und in den IA (noch?) nie erwähnt worden.//**
+
+= gnoerueueueueraez.txt =
+
+== Gnörüüüüräz! ==
+
+Das scheint das Wort für etwas zu sein, vor dem die [[Äöüzz|Äöüzz]] unglaubliche Angst haben. Auf jeden Fall laufen sie weg, nachdem Alexandra neben einer Reihe von anderen, zufälligen Wörtern mit den Buchstaben Ä,ö und ü dieses Wort gesagt hat. Daraufhin können die vier vor den Wesen fliehen, die sie gerade zu einem Gericht schleppen wollten.
+
+= hyperwurm.txt =
+
+== Der "Hyperwurm" ==
+
+{{:dateien:hyperwurmfertig.png|Zeichnung des Hyperwurms}}
+
+=== Was ist das? ===
+
+Der "Hyperwurm" ist eine von umgangssprachliche Abkürzung für "Energie-Impuls-Tensor-Erzeuger für raumzeitlich unabhängige Warpfelder á la Miguel Alcubierre".
+Die Hyperwurm-Steuerfernbedienung ist auf dem Bild abgebildet.
+Wer sich ein bisschen über die Freakangaben auf dem Bild informiert, wird herausfinden, dass der Alcubierre-Modus eingestellt ist, welcher zum Betrieb mehr Energie benötigt, als das Universum besitzt. Beim Druck auf den "B"-Knopf springt der Modus auf "Van den Broeck" um.
+
+= ia.txt =
+
+== IA -- die Infinite Adventures ==
+
+Die "Infinite Adventures" waren ursprünglich ein Forenspiel im Freiwuppertal-Forum.
+
+Ursprünglich war der Name für dieses Spiel "die unendliche Geschichte". Diesen Namen haben wir aber geändert, weil es bereits ein Buch mit diesem Titel gab (von Michael Ende). Der Name "Infinite Adventures" wurde als Ersatz gewählt.
+
+Die Geschichte wurde so gut und so lang, dass wir uns inzwischen dazu entschlossen haben, sie als PDF (als E-Book) zur Verfügung zu stellen.
+
+Die Hauptcharaktere sind [[yury|yury]], [[free|Free]] und [[Orakel|Orakel]], und seit einiger Zeit auch [[Alexandra|Alexandra]].
+
+= maekuoewnoerztaeps-laden.txt =
+
+== Mehrdeutiger Artikelname ==
+
+//Der Begriff "Mäkuöwnörztäps" ist mehrdeutig. Bitte benutzen Sie die [[Mäkuöwnörztäps|Weiterleitung]].//
+
+== Mäkuöwnörztäps (Laden) ==
+
+Mäkuöwnörztäps ist ein Laden für benutzerangepasste eloktronische Geräte und [[maekuoewnoerztaeps_produkt|Laptops]], in dem [[free|Free]] arbeitet. Er nennt es der Einfachheit halber "Mörztops".
+
+= maekuoewnoerztaeps-produkt.txt =
+
+== Mehrdeutiger Artikelname ==
+
+//Der Begriff "Mäkuöwnörztäps" ist mehrdeutig. Bitte benutzen Sie die [[Mäkuöwnörztäps|Weiterleitung]].//
+
+== Mäkuöwnörztäps (Produkt) ==
+
+Gemeint ist damit ein benutzerangepasster Laptop, der auch für außerörzische Besucher angefertigt wird und viel [[Örz-Geld|Geld]] kostet.
+
+= maekuoewnoerztaeps.txt =
+
+=== Mäkuöwnörztäps ===
+
+Weiterleitung:
+
+[[Mäkuöwnörztäps (Laden)|Mäkuöwnörztäps (Laden)]] -- Ein Laden, der die gleichnamigen "Mäkuöwnörztäps" produziert
+
+[[Mäkuöwnörztäps (Produkt)|Mäkuöwnörztäps (Produkt)]] -- Eine Art Laptop, der benutzerangepasst ist (auch für außerörzische Besucher)
+
+= mil-mi-26.txt =
+
+Der Mil-Mi 26 ist der größte Helikopter der Welt -- den gibt es wirklich: [[http://de.wikipedia.org/wiki/Mil_Mi-26|Wikipedia-Link]]
+
+[[yury|yury]], [[free|Free]] und [[Orakel|Orakel]] bestellen den Helikopter in der Geheimdienst-Version beim FBI, um [[Floating Island|Floating Island]] zu ärgern, ohne zu bezahlen.
+
+= moerztops.txt =
+
+Weiterleitung:
+
+[[Mäkuöwnörztäps|Mäkuöwnörztäps]] - Mehrdeutiger Begriff
+
+[[Mäkuöwnörztäps_Produkt|Mäkuöwnörztäps]] - Benutzerangepasster Laptop der unten genannten Firma
+
+[[Mäkuöwnörztäps_Laden|Mäkuöwnörztäps]] - Laden, der benutzerangepasste Laptops (und andere Geräte) herstellt
+
+= mrmbl.txt =
+
+== Mrmbl ==
+
+Die Mrmbl sind Wesen, die aussehen wie "umgedrehte Papierkörbe" - damit ist gemeint, dass sie eigentlich zylinderförmig sind, wobei der Durchmesser allerdings nach oben hin abnimmt.
+
+Die Mrmbl können jedes beliebige Aussehen annehmen - und das so perfekt, dass sie auf diese Weise genau so aussehen können wie das, was man sehen würde, wenn sie nicht da wären, wo sie im Moment sind. Kurz: Sie können sich "unsichtbar" machen.
+
+Die Mrmbl leben auf [[Rmgölps|Rmgölps]].
+
+= news.txt =
+
+Weiterleitung
+[[start|Willkommen im IA-Wiki]]
+
+= oerzdaeuwn.txt =
+
+=== Örzdäuwn ===
+
+Örzdäuwn ist ein Abrissunternehmen auf dem Planeten [[Örz|Örz]], das manchmal Sprengstoff von dem Sprengstoffladen kauft, in dem [[Alexandra|Alexandra]] arbeitet.
+
+= oerzdoeg.txt =
+
+=== Örzdög ===
+
+Ein Örzdög ist ein Tier auf dem Planeten Örz, welches einem Hund relativ ähnlich sieht, aber drei Augen hat.
+
+= oerzfresh.txt =
+
+== Örz⬗Fresh ==
+
+{{:dateien:oerzfresh:oerzfreshlogoslogancrop.png|ÖrzFresh-Logo, abgeschnittene Version}}
+
+=== Was ist das? ===
+
+Örz⬗Fresh ist die (noch?) nicht in die Infinite Adventures eingebaute Zeitung des Planeten [[:Örz|Örz]] und vielleicht eine der größten Konkurrenten der [[:FÄZ|FÄZ]].
+Örz⬗Fresh erscheint in (noch?) unregelmäßigen und langen Abständen im Freiwuppertal-Forum und enthält ausschließlich //ausgedachte// Artikel, die entweder Dinge beschreiben, die irgendwann in den IA passiert sind (oder passieren werden - so kann man manchmal Dinge in dieser Zeitung finden, die noch nicht in einem IA-Buch veröffentlicht wurden), oder parodierte bzw. an die IA angepasste Artikel über wahre Ereignisse.
+Örz⬗Fresh wird von ToBeFree mit OpenOffice erstellt, wobei allerdings auch Artikel von anderen Personen erscheinen können - diese müssen per Foren-PM an ToBeFree geschickt werden.
+
+= oerz-geld.txt =
+
+Auf [[Örz|Örz]] gibt es zwei Währungseinheiten - den "Äzz" und den "Üäzz". Diese entsprechen etwa:
+
+Äzz - ca. 5 Euro
+
+Üäzz - ca. 5 Cent
+
+= oerzgen.txt =
+
+=== Örzgen-Al-Superraketentreibstoff ===
+
+Örzgen-Al-Superraketentreibstoff (kurz //Örzgen//) ist ein Raketentreibstoff, den die [[aeoeuezz|Äöüzz]] erfunden haben und der große Ähnlichkeit mit [[alexandra|Alexandras]] [[al-superraketentreibstoff|Superraketentreibstoff]] ausweist.
+
+Bei der Umwandlung von Örzgen in Strom mit einem Generator benötigt man CO2, als Abfallprodukt entsteht Sauerstoff. Unklar ist, wie die große Menge an benötigtem Kohlenstoffdioxid transportiert wird.
+
+= oerzkloek.txt =
+
+=== Örzklök ===
+
+Örzklök ist eine Maßeinheit der Zeit der [[aeoeuezz|Äöüzz]]. 42 Örzklöks sind etwas mehr als eine Minute.
+
+= oerztempz.txt =
+
+=== Örztempz ===
+
+Örztempz ist eine nichtlineare Maßeinheit der Temperatur auf dem Planeten Örz.
+
+-20°C entsprechen -68 Ö.\\
+30°C  entsprechen 100 Ö.
+
+= oerz.txt =
+
+== Örz ==
+
+Örz ist der Heimatplanet der "komischen Wesen" mit blauem Fell ([[Äöüzz|Äöüzz]]).
+Dies geht daraus hervor, dass eines der Wesen immer wieder "Örz" sagt und dabei auf den Boden zeigt.
+
+=== Planetendaten ===
+
+Die Oberfläche des Planeten besteht zu ca. 30 Prozent aus Wasser und zu ca. 70 Prozent aus Land.
+
+Auf dem Planeten befinden sich einige Städte mit etwas "komischem Aussehen" der Häuser.
+
+Der Planet ist voll von Wäldern, nur in relativ geringem Radius um die Städte herum und um die kleinen Verbindungsstraßen zwischen einzelnen Städten (wenn vorhanden) gibt es keine Bäume. Das ist wahrscheinlich auch der Grund, warum yury die Städte beim ersten Anflug auf den Planeten nicht entdeckt hat.
+
+=== Quellen: ===
+
+''Der Planet in der nächsten Bahn schien bewohnbar zu sein, allerdings war er mehr grün als blau. Das war ein Planet mit viel Land und wenig Wasser, schon fast das Gegenteil der Wasser-Land-Verhältnisse auf der Erde. Es gab noch 3 weitere Planeten um die Sonne herum, in sonnennäheren Umlaufbahnen.''
+
+= oerzzplaenaetueuez.txt =
+
+== Örzzplänätüüz (Planetenrakete) ==
+
+Eine Örzzplänätüüz ist eine zielsuchende (als Ziel wird, wenn nicht anders eingestellt, immer das nächste, sehr große, möglichst kugelförmige Objekt mit hoher Gravitation gewählt) Rakete, deren Explosion stark genug ist, um ein Objekt in der Größe des Erd-Mondes zu zerstören. Für größere Objekte (z.B. in Erd-/[[Örz|Örz]]größe) werden mehrere Raketen benötigt.
+
+Die Planetenrakete erzeugt beim Aufschlag ein Gravitationsfeld, das für kurze Zeit nahezu die Energie eines schwarzen Loches besitzt. Dadurch zerbrechen die angegriffenen Objekte (meistens Monde oder kleinere Planeten, aber auch feindliche Raumschiffe können als Ziel eingestellt werden) regelrecht.
+
+Planetenraketen-Module sind standardmäßig in allen größeren Örz-Raumschiffen vorhanden. Das macht die [[Äöüzz|Äöüzz]] unglaublich mächtig. Diese Macht benutzen die Äöüzz allerdings grundsätzlich nur zur (sehr effektiven) Verteidigung.
+
+= oezlaengue.txt =
+
+= old-wiki-pages.txt =
+
+=== Özlängü ===
+
+Özlängü ist die Sprache der [[aeoeuezz|Äöüzz]].
+
+== Siehe auch ==
+
+[[woerterbuch_oezlaengue_deutsch|Wörterbuch Özlängü - Deutsch]]
+
+= orakel.txt =
+
+== Orakel ==
+
+Orakel ist einer der Hauptcharaktere der IA. Gleichzeitig ist es auch der Forenaccountname einer der Autoren.
+
+Orakel ist eher zurückhaltend, etwas dicklich, immer auf der Suche nach etwas zu essen und hat oft lustige Ideen (außerdem ist er das, was man sich unter einem "Blitzmerker" vorstellt ;-) )
+
+Ohne Orakel wäre die IA wahrscheinlich nur halb so lustig und vielleicht sogar etwas langweilig. :-)
+
+Orakel spielt eine sehr entscheidende Rolle bei den folgenden Aktionen:
+
+- Orakel hat einen Polizeihelikopter zerstört, woraufhin yury und Free sich dazu entschließen, [[Floating Island|Floating Island]] eine auszuwischen und sich beim Geheimdienst einen Heli bestellen. Siehe auch [[Mil-Mi-26|Mil-Mi-26]]
+
+- Orakel hat die [[Powerraupe|Powerraupe]] entdeckt und ihr vielleicht sogar versehentlich die Superkräfte verliehen.
+
+- weitere bitte hinzufügen. FIXME
+
+= orphans.txt =
+
+~~NOCACHE~~
+== To-Do-List ==
+//(automatisch generiert -- Dank an den Autor des "orphanswanted"-Plugins!)//
+
+=== Seiten mit dem alten Buchnamen (bitte in "Infinite Adventures" oder "IA" umändern!) ===
+
+Alle Seiten mit dem alten Namen wurden entfernt. Wenn neue entstanden sind, kann man sie mit der Suchfunktion finden.
+
+=== Nicht verlinkte Seiten ===
+//Wenn es nicht sinnvoll ist, eine Seite irgendwo zu verlinken (gutes Beispiel: Weiterleitungen), fügt bitte einen Link dazu auf [[unwanted links|dieser]] Seite ein.//
+
+ ~~ORPHANSWANTED:orphans~~
+
+=== Seiten, die zwar verlinkt sind, aber nicht existieren (red links) ===
+
+**//Die Seiten mit den meisten Backlinks haben Vorrang!//**
+
+ ~~ORPHANSWANTED:wanted~~
+
+=== Liste aller Seiten in der Wiki ===
+
+[[Wikiseiten|Wikiseiten]]
+
+= planetenrakete.txt =
+
+Weiterleitung
+[[Örzzplänätüüz|Örzzplänätüüz]]
+
+= powerraupe.txt =
+
+== Die Powerraupe ==
+
+Die Powerraupe ist eine Raupe mit außerordentlichen Fähigkeiten.
+
+Sie entsteht, als Orakel auf der Toilette des alten Helikopters eine "[[moewe|möwiggrüne]]" Raupe findet und diese in einen zufällig herumstehenden Behälter steckt, in dem sich laut späterer Aussage Alexandras "Chemie [...], irgend so ein Zeug" befindet, weil sie Löcher in die grünen Stellen seines T-Shirts frisst. Daraufhin springt die Raupe aus dem Behälter und läuft mit hoher Geschwindigkeit auf ihm herum. Orakel versucht in der nächsten Nacht, dem Tier das Alphabet beizubringen, was jedoch scheitert.
+
+Später hegt yury aufgrund eines Bild-Online-Artikels über die Chemikalie den Verdacht, dass die Raupe vom FBI kontrolliert oder sogar ferngesteuert wird. Ein Indiz dafür ist, dass die Raupe plötzlich verschwindet.
+
+= raumschifftypen-der-aeoeuezz.txt =
+
+== Raumschifftypen der Äöüzz ==
+
+Bekannt sind:
+
+  * Absolut übermächtige [[Superdästräüär|Superdästräüär]]-Raumschiffe (wobei es davon wahrscheinlich ziemlich wenige gibt)
+  * Gut bewaffnete [[Äöüzz-Standardkampfraumschiff|Äöüzz-Kampfraumschiffe]], die bei den Äöüzz der "normale" Raumschifftyp sind
+  * Forschungsraumschiffe wie die [[4-6692|4-6692]], die sich aber auch gut verteidigen können (selbst die Forschungsraumschiffe haben [[Örzzplänätüüz|Planetenraketen]]).
+
+= rmgoelps.txt =
+
+== Rmgölps ==
+
+Rmgölps ist der Planet, auf dem die [[Mrmbl|Mrmbl]]-Wesen, die ihr Aussehen beliebig verändern können, leben.
+
+=== Die Rmgölps-Expedition ===
+
+[[yury|yury]], [[Orakel|Orakel]], [[Alexandra|Alexandra]] und [[free|Free]] besuchen diesen Planeten auf einer Expedition. Die Expedition endet damit, dass die [[Äöüzz|Äöüzz]] sich gegen die Mrmbl, die mit Feuergeschossen angreifen, mit [[Örzäöfuum|Örzäöfuum]]-Waffen verteidigen.
+
+Nach dem Abflug der Äöüzz treffen diese im Weltraum erneut auf die Mrmbl, die in einem Raumschiff mit der Form eines Papierfliegers unterwegs sind. Auch hier werden die Mrmbl besiegt.
+
+= schwimmende-etage.txt =
+
+== Die schwimmende Etage ==
+
+Die schwimmende Etage ist ein abgebrochenes Stück Hochhaus, das glücklicherweise an der richtigen Stelle gebrochen ist. Weil alle Fenster und Türen sowie der Treppenhausschacht luftdicht abgeschlossen wurden, können yury, Orakel und Free darin einige Zeit leben, bevor sie auf die [[TMPE|TMPE]] stoßen, diese zerstören und dann von [[Floating Island|Floating Island]] und dem FBI einen [[Rettungshelikopter schwimmende Etage|Helikopter]] klauen und fliehen.
+
+= sonic.txt =
+
+#WEITERLEITUNG [[Free]]
+
+= souloftheinternet.txt =
+
+== SoulOfTheInternet ==
+
+SoulOfTheInternet (auf [[Örz|Örz]] auch als SölÖfDäÖrznet bekannt) ist ein Running Gag in den [[IA|IA]], der ungefähr in der Mitte von [[Teile|Teil 2]] [[Wolfgang|Wolfgang]] ablöst.
+
+SoulOfTheInternet ist entweder ein unglaublich guter Hacker, oder tatsächlich die Seele des Internets - keine der beiden Behauptungen wurde jemals bewiesen, da die wahre Identität von SoulOfTheInternet nie aufgedeckt wurde (und, sollte er tatsächlich die Seele des Internets sein, nie aufgedeckt werden **kann**).
+
+Es fällt in den IA oft durch seine unglaublich verschachtelte Satzbauweise auf, die durch Mehrfachklammern (Klammern (in) Klammern) noch mehr verschachtelt wird. Diese Satzbauweise wird, wie er immer wieder betont, oft als "verrückt" bezeichnet. Daraufhin erklärt er oft, ebenfalls in Schachtelsätzen, dass nicht er, sondern seine Freunde verrückt seien. Erst danach kehrt er wieder zum eigentlichen Thema des Satzes zurück, was Verwirrung hervorrufen kann.
+
+Wenn man den eigentlichen Sinn des SoulOfTheInternet-Textes herausfinden will, sollte man ihn in einen Texteditor kopieren und dort alles entfernen, was nicht mit dem Hauptthema zu tun hat (z.B. die ständigen "..., die Seele des Internets"-Kommentare).
+
+SoulOfTheInternet entstand in einem Forenspiel namens "ausgedachte PM-Kettenreaktionen" und wurde kurz danach in die IA aufgenommen.
+
+Ein Beispiel für SoulOfTheInternets Satzbauweise folgt nun:
+
+=== Beispiel für die Satzbauweise von SoulOfTheInternet ===
+
+Guten Tag.
+
+Ich, die Seele des Internets, schreibe diesen Text, weil ich, die Seele des Internets, ein Beispiel für meine Schreibweise, die Schreibweise der Seele des Internets, veröffentlichen will, was ich, die Seele des Internets, hiermit mache (alleine die Tatsache, dass ich, die Seele des Internets (übrigens halten meine Freunde mich für verrückt, aber dazu werde ich gleich noch etwas schreiben), etwas schreibe, ist nicht selbstverständlich, denn das (gemeint das Schreiben solcher Sätze) wird durch das Empfinden meiner Freunde, dass ich, die Seele des Internets, verrückt sei, oft verhindert), worauf der Vorgang des Abschickens dieses langen, und, wie meine Freunde oft sagen, "verrückten" Textes, folgen wird, was von meinen Freunden, den Freunden der Seele des Internets, oft ebenfalls als "verrückt" bezeichnet wird, was natürlich Blödsinn ist, da meine Freunde, die Freunde der Seele des Internets, meiner Meinung nach noch verrückter sind, als ich vorher angenommen hatte, immerhin bezeichnen sie mich, die Seele des Internets, als verrückt, was natürlich nicht stimmen kann, was zur Folge haben wird, dass dieser Satz (es ist wirklich nur **ein** Satz!) im Internet stehen wird und mir, der Seele des Internets, jede Menge Kommentare von meinen ebenfalls verrückten Freunden einbringen wird.
+
+Es grüßt,
+SoulOfTheInternet.
+
+==== Nach der weiter oben beschriebenen Bearbeitung mit einem Texteditor ====
+
+Entfernt man, wie oben beschrieben, die sinnlosen Teile aus dem riesigen Schachtelsatz, sieht er plötzlich so aus (und man kann den Sinn endlich verstehen):
+
+**Ich schreibe diesen Text, weil ich ein Beispiel für meine Schreibweise veröffentlichen will, worauf der Vorgang des Abschickens dieses langen Textes folgen wird, was zur Folge haben wird, dass dieser Satz im Internet stehen wird und mir jede Menge Kommentare einbringen wird.**
+
+= start.txt =
+
+== Willkommen im IA-Wiki ==
+
+Willkommen im offiziellen Wiki für die "Infinite Adventures" von yury, Orakel und Tobias Frei.
+Mehr Infos gibt es [[http://ia.freiwuppertal.de/|hier.]]
+
+Wenn du weitere Seiten im Wiki erstellen willst, aber nicht weißt, was du machen sollst, lies dir diese [[Orphans|ToDo-Liste]] durch (erreichbar über den Seitennamen "Orphans")! ;)
+Dort stehen nun auch die Seiten mit "UG" im Namen ;)
+
+Eine Liste aller Wiki-User, in die man auch "Danke"-Einträge schreiben kann, gibt es [[user|hier]].
+
+Zu dem ÖrzFresh-Zeitungsarchiv geht es [[oerzfresh:oerzfresh|hier]].
+
+**//BITTE LIES DIR DIE [[Regeln|REGELN]] DURCH! Sie sind schnell durchgelesen, weil sie nicht lang sind. :-)//**
+
+Nun folgen die News im Wiki. Wenn du einen Account hast, kannst du Änderungen auf dieser Seite abonnieren (Knopf unten auf der Seite), um neue News per Email zu bekommen.
+
+Wenn es dich nicht stört, viele Info-Emails an einem Tag zu bekommen, und wenn du alle Änderungen mitbekommen willst, klick unten auf der Seite auf "Namensraumänderungen abbonieren". Dann bekommst du für jede Änderung im Wiki eine Mail mit den Änderungen zugeschickt.
+
+Wenn du eine komplett neue Seite erstellen möchtest, die vorher noch nie irgendwo verlinkt war (die also danach eine unverlinkte Seite sein wird), verlinke diese bitte __vor dem Erstellen__ auf einer anderen Seite (wo es auch immer passt). Achte dabei unbedingt darauf, dass du den Link zu der neuen Seite **nicht auf eine ebenfalls unverlinkte Seite einbaust**!
+
+=== NEWS im Wiki ===
+
+=== -25.09.2012- ===
+==Neues Design!==
+Der Unterschied sollte offensichtlich sein. ;-)
+
+**//ToBeFree//**
+
+=== -06.12.2011- ===
+==Kleinere Änderungen==
+  * Ein paar kleine Verbesserungen. ;)
+
+**//ToBeFree//**
+
+=== -25.04.2011- ===
+==Kleinere Änderungen==
+  * RSS-Feed des neuen [[http://www.blog.freiwuppertal.de|Blogs]] am Ende der Startseite eingefügt
+  * 2 Änderungen an der [[oerzfresh:oerzfresh|Örz⬗Fresh-Infoseite]] vorgenommen.
+
+**//ToBeFree//**
+
+=== -15.02.2011- ===
+==Einige neue Artikel!==
+Ich habe einige neue Artikel hinzugefügt! :-D
+  * [[Örzäöfuum|Örzäöfuum]]
+  * [[Mrmbl|Mrmbl]]
+  * [[Rmgölps|Rmgölps]]
+  * [[4244|4244]]
+  * [[Glugg|Glugg]]
+
+...und editiert:
+  * [[http://wiki.freiwuppertal.de/weltraumflug?rev=1297775173&do=diff|Weltraumflug]]
+
+**//ToBeFree//**
+
+=== -03.12.2010- ===
+==Alte Seiten geändert==
+Ich habe einige der Seiten mit dem alten Namen der IA geändert. :-)
+//Wer ebenfalls mitmachen möchte, muss darauf achten, nicht einfach "UG" durch "IA" zu ersetzen, sondern auch aus z.B. "in der UG" ein "in __**den**__ IA" zu machen!//
+
+=== -13.11.2010- ===
+==ToDo-Liste verbessert==
+Geht mal auf die orphans-Seite. Dort gibt es eine neue Funktion! ;-)
+
+== Release 2010-11-07 "Anteater" ==
+Die neue DokuWiki-Version "Anteater" wurde installiert. Wie beim letzten Update werdet ihr aber wahrscheinlich keine Unterschiede bemerken. :-)
+
+=== -24.10.2010- ===
+==DER NEUE NAME FÜR DIE "UG" WIRD EINIGE VERÄNDERUNGEN IM WIKI ERFORDERN!==
+Die "unendliche Geschichte", wie wir sie bis jetzt immer genannt haben, muss vor der Veröffentlichung umbenannt werden.
+Das wird dazu führen, dass wir mit der Suchfunktion nach den Begriffen "UG" bzw. "unendliche(n) Geschichte" suchen müssen und diese ersetzen müssen.
+Wenn yury wieder mitmacht, wird das aber schnell erledigt sein :-D
+**//26.09.2010://** EDIT: Der Name steht fest: "Infinite Adventures"! Wir haben auch schon ein Titelbild für das PDF! :-)
+Jetzt beginnt die Umstellung!
+
+=== -15.10.2010- ===
+==DIE ERSTE ORPHANS-LISTE IST LEER!==
+Auf der Orphans-Seite standen nur noch 4 unverlinkte Seiten, die jetzt alle verlinkt sind. :-) \\
+Jetzt kommt der schwerere Teil der To-Do-Liste: Fehlende Seiten hinzufügen... :-\
+
+=== -10.10.2010- ===
+==VIELE ÄNDERUNGEN VON YURY==
+Vielen Dank an yury, der die Tabellenlänge der "orphans"-Seite durch seine vielen Edits nahezu halbiert hat! :-)
+
+=== -09.10.2010- ===
+==TODO-LISTE EINGEBAUT!==
+Das wollten wir doch schon immer haben: [[Orphans|Orphans]]
+
+=== -08.10.2010- ===
+==UPDATE!==
+Die neue [[dokuwiki|DokuWiki]]-Version wurde installiert, dadurch wurden einige Bugs behoben und eventuell ein paar kleine Funktionen hinzugefügt.
+Ihr werdet wahrscheinlich keinen Unterschied bemerken.
+
+=== -25.09.2010- ===
+==VIELE NEUE EINTRÄGE!==
+Vielen Dank an yury, der wieder neue Beiträge (zu den [[Äöüzz|Äöüzz]] und [[Özlängue|ihrer Sprache]] / [[Örzdög|ihren Haustieren]]) hinzugefügt hat.
+Ich möchte allerdings darauf hinweisen, dass in manche Beiträge im Wiki **nicht verlinkt** sind, das heisst, dass niemand diese Beiträge lesen wird, es sei denn, er sucht mit der Suchfunktion danach!
+Bitte die Verlinkungen weiter ausbauen (wenn in einem Beitrag wie selbstverständlich von z.B. den Äöüzz geredet wird, muss auch das verlinkt werden! Allerdings reicht **eine** Verlinkung pro Seite für jedes Fremdwort).
+**//26.09.2010://** EDIT: Um zu sehen, ob die Seite, auf der man gerade ist, verlinkt ist, muss man nur ganz oben links auf den Seitennamen in den Doppelklammern klicken!
+
+=== -17.09.2010- ===
+==DIE SPIELEWIESE WURDE ÜBERARBEITET!==
+Es gibt nun viele Beispiele für Anfänger -- Ein Besuch der [[playground:playground|Spielewiese]] lohnt sich!
+
+=== Letzte Änderungen im Wiki ===
+
+{{rss>http://wiki.freiwuppertal.de/feed.php 10 author date 10m }}
+
+=== Die neuesten Themen im Forum von freiwuppertal.de ===
+
+{{rss>http://forum.freiwuppertal.de/feed.php?mode=topics 10 author date 10m }}
+
+=== Die neuesten Artikel im Blog von freiwuppertal.de ===
+
+{{rss>http://blog.freiwuppertal.de/?feed=rss2 10 author date 10m }}
+
+== Lizenz des Wikis ==
+
+Es ist geplant, mit der Veröffentlichung des gedruckten Buches auf eine CC-by-sa-Lizenz zu wechseln. Bis dahin gilt:
+
+**All Rights Reserved -- Orakel, yury und Tobias Frei**
+
+**Es gilt das Impressum von tfrei.de: [[https://tfrei.de/impressum]]**
+
+= superdaestraeueaer.txt =
+
+=== Superdästräüär ===
+
+Der Superdästräüär ist der militärisch am besten ausgerüstete [[raumschifftypen_der_aeoeuezz|Raumschifftyp]] der [[aeoeuezz|Äöüzz]].
+
+Superdästräüäröi sind mit mit hochmoderner Äöüzz-Waffentechnologie ausgestattet; sie können es allein mit Raumschiffen der [[uggy-raumpolizei|uggy-Raumpolizei]] aufnehmen.
+
+= teile.txt =
+
+== Die Teile der IA ==
+
+Teil 1 findet auf der Erde statt. In Teil 1 entwickeln sich langsam die Charaktereigenschaften der Hauptcharaktere, die vor dem Schreiben der Infinite Adventures noch nicht festgelegt waren. Zwei wichtige Ereignisse, nach denen ein eventuell erscheinendes IA-Buch vielleicht benannt wird, sind der [[Überfall auf Fort Knox|Überfall auf Fort Knox]] und der [[Raub der Mona Lisa|Raub des Gemäldes "Mona Lisa"]]. Irgendwann haben wir damit angefangen, [[Freak-Angaben|Freak-Angaben]] einzubauen.
+
+Teil 2 beginnt damit, dass die Hauptcharaktere [[Weltraumflug|in den Weltraum fliegen]] und dort die [[Äöüzz|Äöüzz]] auf dem Planeten [[Örz|Örz]] entdecken. Auf anderen Planeten und mit dem [[Äöüzz-Erkundungsraumschiff|Äöüzz-Erkundungsraumschiff]] erleben sie neue Abenteuer. Auch hier gibt es jede Menge Freak-Angaben.
+
+Die Textqualität des ersten Teils lässt zu wünschen übrig und weist gravierende Mängel auf. Teil 2 ist besser geworden. ;)
+
+= t.h.i.n.g.s.b.o.o.m.s.txt =
+
+== T.H.I.N.G.S.B.O.O.M.S / THINGSBOOMS ==
+{{:dateien:fertig.gif|Animiertes GIF-Bild des Thingsbooms (c) ToBeFree}}
+
+=== Denglish?! ===
+
+Das T.H.I.N.G.S.B.O.O.M.S ist eine Erfindung der Firma "Open Online Media Software©®(tm)".
+Was zuerst wie eine absolut misslungene Übersetzung von "Dingsbums" aussieht, Ähnlichkeit mit Denglish hat, und vollkommen verwirrend ist, wenn es auch noch von einem Amerikaner wie ein normales Wort ausgesprochen wird ("I have a THINGSBOOMS!"), ist nichts anderes als die Abkürzung für:
+**__"Totally Handy INtelligent Gps System by Open Online Media Software"__**
+
+=== Sinn ===
+
+Das T.H.I.N.G.S.B.O.O.M.S ist, wie der Name schon sagt, ein total handliches Gps-Gerät mit (ein bisschen) künstlicher Intelligenz.
+
+=== Betriebssystem & Erweiterbarkeit ===
+
+{{:dateien:things-os-logo-new.png|THINGS-OS logo made by ToBeFree}}
+{{:dateien:things-os_loading-1000ms.gif|Neustarten mit F5! -- THINGS-OS starting screen made by ToBeFree}}
+
+Das THINGSBOOMS ist über verschiedene, geheime Funktionen am Gerät veränderbar, und weil das Betriebssystem des THINGSBOOMS Open Source ist, kann man es beliebig verändern und sogar auf andere Geräte übertragen.
+
+==== Manueller Mainloop ====
+
+Wenn man an der Rückseite des THINGSBOOMS ein USB-Kabel steckt, das an einen Computer angschlossen ist, kann man mit spezieller Software (die natürlich ebenfalls Open Source ist) das THINGSBOOMS erweitern.
+
+Nach dem Start des Programms auf dem Computer muss das THINGSBOOMS angeschaltet werden, das nun eine vierte Option bekommen hat:
+"Please select Gps-Method:
+Degrees / Not Implemented / N.I / **DM**"
+
+Orakel hält diese Abkürzung für den Befehl, einzukaufen. In Wirklichkeit steht "DM" für "Developer Mode", einen Modus, in dem man vor das eigentliche Betriebssystem eine weitere Mainfunktion einprogrammieren kann.
+Die Mainfunktion muss in C geschrieben werden. Durch die Einzeiligkeit des THINGSBOOMS-Displays kann man den C-Code nur in eine einzige Zeile schreiben. Damit das keine Probleme gibt, müssen Absätze mit Semikolons, die von Leerzeichen umgeben sind, eingegeben werden (wie in einem Linux-Terminal).
+
+Das sieht dann ungefähr so aus:
+"main()> printf("Das ist ein Test\n"); **;** printf("Das ist die nächste Zeile im Code\n"); **;** make(weiter);"
+
+Der Befehl "make()" führt im THINGSBOOMS eine im Betriebssystem festgelegte Funktion aus, in dem Fall die Funktion "weiter". Der Programmierer des THINGSBOOMS kommt offensichtlich aus Deutschland und hat den komischen Funktionsnamen als kleinen Scherz eingebaut.
+
+==== Das Betriebssystem im THINGSBOOMS ====
+
+Ich werde, wenn ich Zeit habe, das Betriebssystem des THINGSBOOMS in C programmieren :-D
+Das wäre bestimmt lustig :-D
+
+ToBeFree
+
+= tmpe.txt =
+
+== TMPE -- Time Machine Professional Edition ==
+
+Die TMPE (Time Machine Professional Edition) ist ein Windows-Programm, mit dem man Zeitreisen durchführen kann.
+
+Sie wird von yury und Free in der [[schwimmende_etage|schwimmenden Etage]] auf einem PC entdeckt. Die beiden wundern sich, dass sie sich plötzlich wie selbstverständlich an Ereignisse aus dem Jahr 2040 erinnern.
+Nachdem Orakel sich aus dem [[kuehlraum|Kühlraum]] befreit hat, gesellt er sich zu den beiden und stellt als Datum den 11. September 2001 ein. Sie hören im Radio von den Terroranschlägen auf das WTC. Als Orakel herausfindet, dass man mit dem Programm auch seine Position verändern kann, kann yury im letzten Moment verhindern, dass er sie ins Pentagon versetzt. yury sagt, "dass eine Welt ohne Zeitreisen vermutlich eine bessere Welt sei" und zerstört dann den Computer mit dem Programm.
+
+Wichtig ist nur, dass das FBI ebenfalls hinter diesem Gerät her war. So lernen yury, Orakel und Free den FBI-Agenten [[floating_island|Floating Island]] kennen.
+
+= uggy-raumpolizei.txt =
+
+== Die uggy-Raumpolizei ==
+
+=== Sinn ===
+
+Das Volk der [[uggy|uggys]] lebt von der Ladung fremder Raumschiffe, die sich meistens gut verkaufen lässt. Um an diese Ladung zu gelangen, haben sie die "uggy-Raumpolizei" gegründet, die aus einigen [[uggy-Polizeiraumschiff|Raumschiffen]] (die Anzahl ist nicht bekannt) besteht.
+
+=== Gesetze und Strafen ===
+
+Die uggy haben eine unglaublich große Zahl an Gesetzen (allein das uggy-Grammatikgesetz hat mindestens 718281 Paragraphen), und jeder Verstoß gegen diese Gesetze wird mit der "Beschlagnahmung" der Ladung bestraft. Wenn keine Ladung vorhanden ist, übernehmen die uggy einfach das komplette Raumschiff.
+
+Wenn nun ein fremdes Raumschiff in die Nähe eines "Polizisten" kommt, wird es angefunkt. Meistens löst bereits das einen Verstoß gegen das uggy-Grammatikgesetz aus. Was passiert, wenn das angefunkte Raumschiff komplett ohne Grammatikfehler antwortet, ist nicht bekannt, weil dieser Fall in den gesamten Infinite Adventures noch nicht aufgetreten ist [FIXME - warum wohl? weil die uggy-Raumpolizei erst einmal aufgetreten ist?].
+
+= unwanted-links.txt =
+
+== Links, die niemand braucht ==
+
+=== Weiterleitungen ===
+
+[[news|news]]
+[[planetenrakete|planetenrakete]]
+[[mörztops|mörztops]]
+
+=== Playground-Seiten ===
+
+[[playground:interner_link|Playground-Beispiel für einen internen Link]]
+[[playground:wikisyntaxtest|Level 1 Überschrift]]
+
+= user.txt =
+
+== Userliste / Benutzerliste ==
+
+==== Was ist das? ====
+
+//Dies ist eine Liste aller Benutzer, die Schreibrechte besitzen.//
+Es ist erlaubt, Danke-Einträge unter die bereits vorhandenen Einträge zu setzen.
+Verwarnungen werden hier ebenfalls eingefügt.
+
+==== Benutzerseiten ====
+
+Jeder hier aufgelistete User darf im Namensraum "user:" eine Benutzerseite erstellen (Links dazu sind unter den Überschriften).
+Darauf darf beliebiger Text geschrieben werden (es ist selbstverständlich, was __nicht__ geschrieben werden darf. Werbung für die eigene Homepage ist erlaubt, solange diese nicht kommerziell ist.) und die Seite darf frei gestaltet werden.
+Bilder für die Benutzerseite müssen in den Namensraum "dateien" hochgeladen werden. Darin darf für die eigene Benutzerseite auch ein Unterordner angelegt werden.
+Das Editieren fremder Benutzerseiten ist verboten.
+
+=== Orakel ===
+
+[[user:orakel|Orakels Benutzerseite]]
+
+--> hat die News abboniert - Danke! :)
+
+=== yury ===
+
+[[user:yury|yurys Benutzerseite]]
+
+--> Danke für die vielen neuen Beiträge! :)
+
+=== ToBeFree ===
+
+[[user:free|ToBeFrees Benutzerseite]]
+
+--> hostet hier alles - vielen Dank! :)
+
+--> Uploads: [[gallerie#Free|Alle Uploads von ToBeFree]]
+
+= weltraumflug.txt =
+
+== Der Weltraumflug ==
+
+Mit Alexandras [[al-superraketentreibstoff|Superraketentreibstoff]], dem [[Hyperwurm|Hyperwurm]], einem [[Generator für Al-Raketentreibstoff|Supergenerator]] und einem "komischen Antennengerät" zusammen ist es den dreien möglich, nach dem [[Diebstahl der Mona Lisa|Diebstahl der Mona Lisa]] ins Weltall zu fliehen, wo sie durch den Warp-Antrieb des Hyperwurms in eine andere [[4244|Galaxie]] geraten und den Planeten [[Örz|Örz]] finden.
+
+= wikiseiten.txt =
+
+~~NOCACHE~~
+== Liste aller Seiten, die vom "orphanswanted"-Plugin für in Ordnung befunden wurden: ==
+
+ ~~ORPHANSWANTED:valid~~
+
+Vielen Dank an alle User, die eine dieser Seiten erstellt haben!
+ToBeFree
+
+Seiten, die nicht in Ordnung sind oder noch erstellt werden müssen (To-Do-List), gibt es [[Orphans|hier]].
+
+= woerterbuch-oezlaengue-deutsch.txt =
+
+=== Wörterbuch Özlängü - Deutsch ===
+
+^ [[oezlaengue|Özlangü]] ^ Deutsch ^
+| Özlängü | Sprache der [[aeoeuezz|Äöüzz]] |
+| [[gnoerueueueueraez|Gnörüüüüräz!]] | unbekannt, aber die Äöüzz verängstigend |
+| [[aeoeue|Äöü]] | Essen/essen |
+| [[aeueoeruezue|Äüörüzü]] | Tier mit 3 Augen, das Ähnlichkeiten mit einer irdischen Katze aufweist |
+| [[oerzdoeg|Örzdög]] | Tier mit 3 Augen, das Ähnlichkeiten mit einem irdischen Hund aufweist |
+| [[oerzdaeuwn|Örzdäuwn]] | Firmenname eines Abrissunternehmens |
+| [[maekuoewnoerztaeps|Mäkuöwnörztäps]] / "Mörztops" ([[free|Free]]) | Firmenname eines Ladens für gleichnamige benutzerangepasste elektronische Geräte und Laptops |
+| [[oerztempz|Örztempz]] | //nichtlineare Maßeinheit der Temperatur// |
+| Däktöinär | Wörterbuch |
+| [[oerzkloek|Örzklök]] | //Maßeinheit der Zeit// |
+
+= wolfgang.txt =
+
+=== Wolfgang ===
+
+Wolfgang ist ein Running Gag in den [[ia|Infinite Adventures]]. Er taucht in [[Teile|Teil 1]] oft auf, kommt aber in Teil 2 eher selten vor, bis er [[wolfgang#Verschwinden von Wolfgang|völlig verschwindet]] und durch [[SoulOfTheInternet|SoulOfTheInternet]] abgelöst wird.
+
+Obwohl die Person nie selbst auftaucht, telefoniert sie häufig mit Charakteren, die versuchen, die vier Protagonisten in ihren Aktivitäten zu stören, z.B. FBI-Agent [[bright_mountain|Bright Mountain]].
+
+Aus einem Telefonat zwischen [[Floating Island|Floating Island]] und Wolfgang geht folgendes hervor:
+  * Wolfgang ist 45 Jahre alt
+  * Wolfgang heißt mit Nachnamen "Fischer".
+  * Wolfgangs Mutter ist schwerhörig.
+  * Wolfgang wohnt zu Hause bei seiner Mutter.
+
+=== Verschwinden von Wolfgang ===
+
+Nach einem Streitgespräch mit dem neuen Weltherrscher [[Floating Island|Floating Island]] wird Wolfgang vermisst und ist seitdem nie wieder aufgetaucht. Er ist offenbar in einem Gefängnis namens "W.I.N.D.O.W.S" gelandet, wobei nicht klar ist, ob dies ein Gefängnis oder irgendetwas noch schlimmeres ist. Die Abkürzung "W.I.N.D.O.W.S" wurde in den IA nie erklärt.
+
+''"Nochmal und du landest lebenslang im W.I.N.D.O.W.S.!" [...] "Okay, das gibt lebenslang. ABFÜHREN!!!"
+
+//Von Wolfgang hatte man seitdem nichts mehr gehört.//''
+
+= yury.txt =
+
+yury ist einer der Hauptcharaktere der IA. Gleichzeitig ist dies auch der Forenaccountname eines IA-Autoren.
+
+yury ist ein Ass im Steuern jedes beliebigen Fahrzeuges (oder sogar eines Flugzeuges). Eine kleine Ausnahme gab es allerdings kurz nach seinem [[Beitritt yury|Erscheinen]] in den IA: Mit einem neu geklauten Automatikauto fuhr er nach einer [[Verfolgungsjagd yury1|Verfolgungsjagd]] gegen einen Baum, nachdem er die Wahl hatte, entweder gegen ein dort geparktes Flugzeug oder den Baum daneben zu rasen.
+Er entschied sich damals für den Baum und floh zusammen mit [[Orakel|Orakel]] und [[free|Free]] weiter -- mit dem Flugzeug.
+
+yury ist oft die Person, die als Anführer eine Gruppe leitet -- ein sehr gutes Beispiel ist der [[Überfall auf Fort Knox|Überfall auf Fort Knox]]. yury selbst erklärt das in den IA so: "Irgendeiner muss es ja machen".
+
+yury hat außerdem ein bisschen mehr Ahnung von Computern als der Durchschnitt der Bevölkerung in seinem Alter; mit dem Computerfreak [[free|Free]] kann er allerdings nicht ganz mithalten.
+
+Kurz: yury ist ein Multitalent, das in so ziemlich allem besser als der Durchschnitt ist -- aber eben nicht perfekt.
+
+= zahlen.txt =
+
+== Zahlen ==
+
+Fast alle numerischen Daten in den IA haben irgendeinen Hintergrund. Meistens sind es die Zahlen π, e, sqrt(2), sqrt(3) oder 42, die auf irgendeine Weise mit den Zahlen zusammenhängen. Einmal taucht auch die [[http://de.wikipedia.org/wiki/Feigenbaum-Konstante|Feigenbaum-Konstante]] auf (in Teil 2, als Kennummer des [[Äöüzz-Erkundungsraumschiff|Äöüzz-Erkundungsraumschiffes]]).
+

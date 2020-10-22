@@ -1,0 +1,27 @@
+/* Das folgende CSS wird für alle Benutzeroberflächen geladen. */
+
+@font-face {
+    font-family: 'linux-libertine-embed';
+    src: url('https://tfrei.de/linux-libertine.ttf') format('truetype');
+}
+
+body {
+    font-family: "Linux Libertine", linux-libertine-embed, Times, serif;
+    color: black;
+}
+
+p {
+    font-size: 14px;
+    color: black;
+}
+
+.mw-body-content {
+    font-size: 14px;
+    color: black;
+}
+
+.mw-editfont-monospace {
+    font-family: "Linux Libertine", Times, serif;
+    font-size: 16px;
+    color: black;
+}

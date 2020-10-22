@@ -1,0 +1,130 @@
+<pre>
+
+„Useful Copypasta“ (UTF-8 für LuaTeX)
+Zusammengestellt von den Autoren der Infinite Adventures.
+Diese Datei ist gemeinfrei / Public Domain / CC0-lizenziert.
+------------------------------
+
+Drei Unendlich-Zeichen in der Mitte, für Zeitsprünge:
+
+\begin{center}
+	∞∞∞
+\end{center}
+
+------------------------------
+
+Kursiver Text:
+
+\textit{    }
+
+Dicker Text:
+
+\textbf{    }
+
+Vorsicht: Geht nicht über mehrere Absätze. Muss in jedem Absatz einzeln benutzt werden, falls z.B. Kursivdruck über mehrere Absätze geht.
+
+------------------------------
+
+Terminal-Textblock:
+
+\noindent \parbox{\textwidth}{ \vspace{3ex} \hrule \vspace{3ex}
+
+    \begin{footnotesize}
+    \begin{ttfamily}
+
+\noindent Bla Bla
+
+\noindent Bla Bla Bla.
+
+    \end{ttfamily}
+    \end{footnotesize}
+
+\vspace{3ex} \hrule \vspace{3ex} }
+
+------------------------------
+
+Anführungszeichen:
+
+Deutsch:
+»«
+›‹
+„“
+‚‘
+
+Vorsicht: Apostroph ist kein schließendes Anführungszeichen!
+Apostroph: ’
+Ein Apostroph ist die hochgestellte Version des einfachen öffnenden Anführungszeichen, wenn man so möchte.
+
+Beide nebeneinander zum Vergleich: ‘’
+
+Auslassungszeichen: …
+
+Halbgeviertstrich: –
+
+
+Englische Anführungszeichen, für den unwahrscheinlichen Fall, dass wir sie jemals benötigen:
+“”
+‘’
+Ich glaube, die würde ich nicht einmal in englische Zeitungsartikel-Schnipsel einbauen. Oder gehören sie gerade dort unbedingt hin?
+Örzlängü ist mit seinen sowieso deutschen Umlauten außen vor und benutzt selbstverständlich deutsche Satzzeichen.
+Auffällig ist eine Überschneidung: englisch öffnend = deutsch schließend.
+
+------------------------------
+
+Aufzählungspunkte:
+
+\begin{itemize}
+\item Lorem Ipsum
+\item Dolor Sit
+\item Amet!
+\end{itemize}
+
+Nummerierte Aufzählung:
+
+\begin{enumerate}
+\item Lorem Ipsum
+\item Dolor Sit
+\item Amet!
+\end{enumerate}
+
+------------------------------
+
+LaTeX-Sonderzeichen:
+
+
+Rückstrich (Backslash)
+\textbackslash
+Ja, das geht leider nur so, denn das hier \\ ist ein forcierter Zeilenumbruch ohne Absatzwechsel.
+
+Geschweifte Klammern
+\{   \}
+
+Dollarzeichen
+\$
+
+Kaufmanns-Und
+\&
+
+Raute
+\#
+
+Grad
+\textdegree
+
+Zirkumflex
+\^{}
+Die geschweiften Klammern sind dort wichtig.
+
+Tilde. Standardbedeutung: geschütztes Leerzeichen. Für ASCII-Art notwendig.
+Hinweis: Geschützte Leerzeichen verhindern nicht die Trennung des restlichen Wortes.
+Ein geschütztes Leerzeichen hat daher das Potenzial, die Trennung deutlich hässlicher als vorher zu machen.
+\textasciitilde oder \~{}
+Hier auch geschweifte Klammern.
+
+Prozentzeichen
+\%
+
+Unterstrich
+\_
+
+</pre>

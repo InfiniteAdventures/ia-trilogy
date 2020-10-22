@@ -1,0 +1,51 @@
+IA2-Entwicklungsumgebung:
+
+Texteditor: Kate
+    Ersteinrichtung:
+        Einstellungen -> Einrichten:
+            Erweiterungen:
+                Alle Erweiterungen in der Liste deaktivieren
+            Schriften und Farben:
+                Neues Schema erstellen: "ia", Linux Libertine, Regular, 14pt.
+            Bearbeitung:
+                Autovervollständigung: Alle Auswahlmöglichkeiten deaktivieren.
+            Öffnen/Speichern:
+                Kodierung: Unicode (UTF-8).
+                Zeilenende: UNIX.
+                Byte-Reihenfolge-Markierung (BOM) aktivieren: Nein.
+                Begrenzung der Zeilenlänge: -1 ("unbegrenzt").
+                Anhängende Leerzeichen entfernen: Im gesamten Dokument.
+                Beim Speichern Zeilenumbruch am Ende der Datei einfügen: Ja.
+    Routine:
+        Zur Bearbeitung das "ia"-Schema aus dem "Ansicht"-Menü wählen.
+        Falls Kate hauptsächlich zu diesem Zweck genutzt wird, "ia"-Schema als Standardschema einstellen.
+
+Versionsverwaltung: git
+    Erste Einrichtung:
+        SSH-Key beim Git-Anbieter hinterlegen.
+        Über SSH (nicht HTTPS) klonen. Dann funktioniert "push" sehr bequem und sicher.
+    Updates herunterladen:
+        > git pull
+    Update hochladen:
+        Kurzform:
+            > git add -A && git commit -a -m 'Update IA2' && git push
+        Diese Kurzform besteht aus:
+            > git add -A
+            > git commit -a -m 'Nachricht'
+            > git push
+
+Compilierungs-Umgebung: texlive-full, bash
+    Compilieren:
+        > lualatex infiniteadventures2.tex
+        drei Mal hintereinander ausführen, damit das Inhaltsverzeichnis stimmt.
+        Wichtig: "lualatex", nicht "luatex". Es wird zwar dasselbe Programm ausgeführt, aber der Aufruf-Name wird überprüft.
+    Notfall-Abbruch:
+        Strg+D (nicht Strg+C) sendet "End Of File". Alternativ "x" eintippen, dann die Return-Taste.
+
+
+
+
+
+
+
+

@@ -1,0 +1,160 @@
+# BaseRoundNumbers:
+# Find numbers that are "round" for base 10 and base X.
+# Tobias Frei, 2019
+# This is free and unencumbered software released into the public domain.
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+import sys
+import math
+
+def BaseConvert (input, base):
+    base = int(base)
+
+    i = int(0)
+    x = int(input)
+    output = []
+
+    if x == 0:
+        output.append(0) # Sonderfall: 0 wird zu 0, die Funktion kann dann beendet werden
+        return output
+
+    while x > 0:
+        output.append( x % base )
+        x = int(x//base) # ganz wichtig: Doppelter Geteilt-Strich für eine reine Integer-Division. Ansonsten werden die Ergebnisse ungenau.
+
+    output.reverse()
+    return output
+
+
+def PrintBase36 (digit):
+    if digit < 10: # Dezimalziffer
+        print(digit, end='')
+    elif digit <= 36: # Alphabet (26 Zeichen) mit A = 11 und Z = 36
+        print(chr(digit + ord('A') - 10), end='')
+    else: # Nicht durch Dezimalziffern oder Alphabet darstellbar.
+        print('(', end='')
+        print(digit, end='')
+        print(')', end='')
+
+
+def CheckRoundList (input, zeroes):
+    zeroes = int(zeroes)
+
+    if (len(input) == 1) and (input[0] == 0):
+        return False # Null ist zwar immer "rund", aber gerade deshalb uninteressant
+
+    if zeroes > len(input):
+        zeroes = len(input) # Zugriff auf nicht existierende Array-Elemente verhindern
+
+    for i in range(zeroes):
+        if int(input[-(i+1)]) != 0: # negative Arraynummer bedeutet "von rechts aus gezählt"
+            return False
+    return True
+
+
+def CheckRoundInt (input, zeroes):
+    input = int(input)
+    zeroes = int(zeroes)
+
+    if input == 0:
+        return False # Null ist zwar immer "rund", aber gerade deshalb uninteressant
+
+    if input == int(round(input, -zeroes)):
+        return True
+    else:
+        return False
+
+
+def ListRoundBoth (base, lowerlimit, upperlimit, zeroesdecimal, zeroesconverted):
+    # Performance-Entscheidung: Größtmögliche Schrittgröße wählen, ohne eine einzige gesuchte Zahl zu überspringen
+    if (zeroesdecimal >= zeroesconverted) and (base <= 10): # Wenn mehr Dezimal-Nullen als Base-X-Nullen gesucht werden und Zehnerschritte größer sind als X-Schritte, dann orientieren wir uns am Dezimal-Nullen-Kriterium
+        step = int(10**zeroesdecimal) # es lohnt sich nicht, Zahlen zu prüfen, die dezimal gar nicht genug Nullen haben.
+        step = int(max(1, step)) # Die Schrittweite muss eine ganze Zahl sein und mindestens 1 betragen.
+    else: # Wenn weniger Dezimal-Nullen als Base-X-Nullen gesucht werden, oder wenn X-Schritte größer sind als Zehnerschritte, dann ist diese Alternative vermutlich schneller. Extremes Beispiel: Ausgabe aller Base-36-Zahlen mit 100 Nullen
+        step = int(str(10**zeroesconverted), base) # Wenn die Base-X-Zahl beispielsweise 3 Nullen haben soll, können wir alle Zahlen überspringen, die zwischen "1000" Base X und "2000" Base X liegen.
+        step = int(max(1, step)) # Die Schrittweite muss eine ganze Zahl sein und mindestens 1 betragen.
+    lowerlimit = int((lowerlimit//step)*step) # Dann müssen wir allerdings auch exakt mit der ersten runden Zahl beginnen. Sinnlose Reihen wie "5, 15, 25, 35, ..." werden hierdurch umgewandelt in "10, 20, 30, 40, ...".
+
+    for i in range(lowerlimit, upperlimit, step):
+        a = CheckRoundInt(i, zeroesdecimal)
+        i_converted = BaseConvert(i, base)
+        b = CheckRoundList(i_converted, zeroesconverted)
+        if (a == True) and (b == True):
+            print(i, end='')
+            print('<sub>10</sub> = ', end='')
+            for j in range(len(i_converted)):
+                PrintBase36(i_converted[j])
+            print('<sub>', end='')
+            print(base, end='')
+            print('</sub>', end='\n\n')
+
+
+def AutoGenerate (baselow, basehigh, lowerlimit, upperlimit, zeroesdeclow, zeroesdechigh, zeroesconvlow, zeroesconvhigh):
+    for b in range(baselow, basehigh+1):
+        for i in range(zeroesdeclow, zeroesdechigh+1):
+            for j in range(zeroesconvlow, zeroesconvhigh+1):
+                if (i == 0) and (j == 0): # Alle Zahlen würden ausgegeben werden.
+                    continue
+                print('=== ', end='')
+                print('Base', b, 'numbers from', lowerlimit, 'to', upperlimit, 'with', i, 'and', j, 'zeroes', end='')
+                print(' ===')
+                ListRoundBoth(b, lowerlimit, upperlimit, i, j)
+                print('')
+
+
+def LogarithmicGenerate (base, power):
+    print('== Zeroes on any side ==')
+    print('=== Zeroes on the left side ===')
+    for i in range(power):
+        lowerlimit_dec = int(10**i)     # beispielsweise  1000
+        upperlimit_dec = int(10**(i+1)) # beispielsweise 10000
+        zeroes_dec = int(max(0, i))   # mindestens 0
+        AutoGenerate(base, base, lowerlimit_dec, upperlimit_dec, zeroes_dec, zeroes_dec, 0, 0)
+    print('=== Zeroes on the right side ===')
+    for j in range(power):
+        lowerlimit_dec = int(10**i)     # nur für die automatische Überschrift benötigt
+        upperlimit_dec = int(10**(i+1)) # nur für die automatische Überschrift benötigt
+        lowerlimit_basex = base**j # Die Schleife soll beispielsweise nicht bei der Dezimalzahl 1000, sondern bei der Base-7-Zahl "1000" beginnen.
+        upperlimit_basex = base**(j+1)
+        ## zeroes_basex = int((j//math.log10(base))) # Exakte Länge einer Base-X-Zahl im Vergleich zur Dezimalzahl: (math.log(Dezimalzahl)//math.log(X))+1
+        ## Die vorherige Zeile lieferte nicht immer die richtige Anzahl Nullen zurück; da ist vielleicht noch ein Fehler drin. Stattdessen jetzt:
+        # zeroes_basex = int(max(len(BaseConvert(lowerlimit_basex, 7))-1, 0)) # ohne große mathematische Überlegung: Stellen zählen. Nicht elegant, aber garantiert zielführend und mit guter Performance.
+        # AutoGenerate(base, base, lowerlimit_basex, upperlimit_basex, 0, 0, zeroes_basex, zeroes_basex)
+        print('==== ', end='')
+        print('Base', base, 'numbers from', lowerlimit_dec, 'to', upperlimit_dec, 'with', 0, 'and', j, 'zeroes', end='')
+        print(' ====')
+        step = lowerlimit_basex
+        for k in range(lowerlimit_basex, upperlimit_basex, step):
+            k_converted = BaseConvert(k, base)
+            print(k, end='')
+            print('<sub>10</sub> = ', end='')
+            for l in range(len(k_converted)):
+                PrintBase36(k_converted[l])
+            print('<sub>', end='')
+            print(base, end='')
+            print('</sub>', end='\n\n')
+        print('')
+
+
+def PrintHelp():
+    print('Usage: python', sys.argv[0], 'manual base lowerlimit upperlimit zeroesdecimal zeroesconverted')
+    print('Example: python', sys.argv[0], 'manual 7 0 1000000 3 2')
+    print('Example: python', sys.argv[0], 'manual 7 0 1000000 0 6')
+    print('Example: python', sys.argv[0], 'manual 7 0 1000000 5 0')
+    print('Usage: python', sys.argv[0], 'auto baselow basehigh lowerlimit upperlimit zeroesdeclow zeroesdechigh zeroesconvlow zeroesconvertedhigh')
+    print('Example: python', sys.argv[0], 'auto 5 16 0 1000000 2 2 6 6')
+    print('Example: python', sys.argv[0], 'auto 2 36 0 1000000 0 10 0 10')
+    print('Usage: python', sys.argv[0], 'logarithmic base power')
+    print('Example: python', sys.argv[0], 'logarithmic 7 100')
+
+
+if (len(sys.argv) == 7) and (sys.argv[1] == 'manual'):
+    ListRoundBoth(int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5]), int(sys.argv[6]))
+elif (len(sys.argv) == 10) and (sys.argv[1] == 'auto'):
+    AutoGenerate(int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5]), int(sys.argv[6]), int(sys.argv[7]), int(sys.argv[8]), int(sys.argv[9]))
+elif (len(sys.argv) == 4) and (sys.argv[1] == 'logarithmic'):
+    LogarithmicGenerate(int(sys.argv[2]), int(sys.argv[3]))
+else:
+    PrintHelp()
+
+# Ende
