@@ -7,36 +7,38 @@
 \contentsline {chapter}{\numberline {4}Dögöbörz Nüggät}{73}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Abflug}{85}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Zwei blinde Hühner}{99}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Wie überrumpelt man einen Raumschiffentführer?}{103}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Goethe und Schiller}{115}{chapter.8}%
+\contentsline {chapter}{\numberline {7}Wie überrumpelt man einen Raumschiffentführer?}{105}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Goethe und Schiller}{117}{chapter.8}%
 \newpage 
-\contentsline {part}{\numberline {II}Das Gnörk-Kartell}{123}{part.2}%
-\contentsline {chapter}{\numberline {9}Islands Vermächtnis}{125}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Außerordentliche Sitzung}{135}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Gestrandet im Helixnebel}{151}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Level 1}{151}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Level 2}{153}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Level 3}{156}{section.11.3}%
-\contentsline {chapter}{\numberline {12}Wildfalle}{165}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Fortsetzung der Einsamkeit}{175}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Level 4}{175}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Level 5}{176}{section.13.2}%
-\contentsline {chapter}{\numberline {14}Der ugghy-Coup}{183}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Der Sturm}{201}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Level 6}{201}{section.15.1}%
-\contentsline {chapter}{\numberline {16}Über den Dächern von Legisla}{209}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Auf Schlittschuhen in den Abgrund}{221}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Level 7}{221}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Level 8}{228}{section.17.2}%
-\contentsline {chapter}{\numberline {18}Die Mondlichtung}{231}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Level 12}{231}{section.18.1}%
+\contentsline {part}{\numberline {II}Das Gnörk-Kartell}{125}{part.2}%
+\contentsline {chapter}{\numberline {9}Islands Vermächtnis}{127}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Außerordentliche Sitzung}{137}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Gestrandet im Helixnebel}{153}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Level 1: Urwald}{153}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Level 2: Ein bisschen Steinzeit}{155}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Level 3: Tropischer Ozean}{158}{section.11.3}%
+\contentsline {chapter}{\numberline {12}Wildfalle}{167}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Fortsetzung der Einsamkeit}{177}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Level 4: Stinkesumpf}{177}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Level 5: Pfad der neuen Hoffnung}{178}{section.13.2}%
+\contentsline {chapter}{\numberline {14}Der ugghy-Coup}{185}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Der Sturm}{203}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Level 6: Eiskalte Heimsuchung}{203}{section.15.1}%
+\contentsline {chapter}{\numberline {16}Über den Dächern von Legisla}{211}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Auf Schlittschuhen in den Abgrund}{223}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Level 7: Eiswirkung}{223}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Level 8: Eiswand}{230}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Level 9: Sunshine Solitude}{233}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Level 10: Der Freibrief}{238}{section.17.4}%
+\contentsline {chapter}{\numberline {18}Die Mondlichtung}{241}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Level 12}{241}{section.18.1}%
 \newpage 
-\contentsline {part}{\numberline {III}Bonusmaterial}{235}{part.3}%
-\contentsline {chapter}{\numberline {19}Titelmelodie der Infinite Adventures 2}{237}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Musikliste}{239}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Kleines Lexikon}{245}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Orakels Zeichnungen}{249}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Karte der Galaxis}{251}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Auszug: Original-Forenthread}{253}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Bildquellen}{255}{chapter.25}%
-\contentsline {chapter}{\numberline {26}Lizenz des Buchinhalts}{257}{chapter.26}%
+\contentsline {part}{\numberline {III}Bonusmaterial}{245}{part.3}%
+\contentsline {chapter}{\numberline {19}Titelmelodie der Infinite Adventures 2}{247}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Musikliste}{249}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Kleines Lexikon}{257}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Orakels Zeichnungen}{261}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Karte der Galaxis}{263}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Auszug: Original-Forenthread}{265}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Bildquellen}{267}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Lizenz des Buchinhalts}{269}{chapter.26}%

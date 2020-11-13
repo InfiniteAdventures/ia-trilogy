@@ -67,7 +67,7 @@
    <dc:creator><rdf:Seq><rdf:li>Tobias Frei, infiniteadventures.de</rdf:li></rdf:Seq></dc:creator>
    <dc:publisher><rdf:Bag><rdf:li>infiniteadventures.de</rdf:li></rdf:Bag></dc:publisher>
    <dc:rights><rdf:Alt><rdf:li xml:lang="x-default">Tobias Frei, infiniteadventures.de</rdf:li></rdf:Alt></dc:rights>
-   <dc:description><rdf:Alt><rdf:li xml:lang="x-default">Eine frei lizenzierte Romanserie über ein witzig-verrücktes Verbrecher-Quartett, schräge Raumpiraten, böse Diktatoren, und die Benutzung eines Helikopters als Raumschiff. Open Source, geschrieben in LaTeX (LuaTeX).</rdf:li></rdf:Alt></dc:description>
+   <dc:description><rdf:Alt><rdf:li xml:lang="x-default">Der zweite Teil der frei lizenzierten Romanserie über ein witzig-verrücktes Verbrecher-Quartett, schräge Raumpiraten und größenwahnsinnige Diktatoren. Open Source, geschrieben in LaTeX (LuaTeX).</rdf:li></rdf:Alt></dc:description>
    <dc:subject><rdf:Bag><rdf:li>German</rdf:li>
      <rdf:li>novel</rdf:li>
      <rdf:li>science fiction</rdf:li>
@@ -85,9 +85,9 @@
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> 
    <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool> 
-   <xmp:ModifyDate>2020-09-11T22:45:20+02:00</xmp:ModifyDate> 
-   <xmp:CreateDate>2020-09-11T22:45:20+02:00</xmp:CreateDate> 
-   <xmp:MetadataDate>2020-09-11T22:45:20+02:00</xmp:MetadataDate> 
+   <xmp:ModifyDate>2020-11-13T01:12:03+01:00</xmp:ModifyDate> 
+   <xmp:CreateDate>2020-11-13T01:12:03+01:00</xmp:CreateDate> 
+   <xmp:MetadataDate>2020-11-13T01:12:03+01:00</xmp:MetadataDate> 
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpRights = "http://ns.adobe.com/xap/1.0/rights/"> 
    <xmpRights:Marked>True</xmpRights:Marked>
@@ -95,7 +95,7 @@
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"> 
    <xmpMM:DocumentID>uuid:D1C72D2B-3D2F-44CF-3B05-8D36EACDEBCB</xmpMM:DocumentID> 
-   <xmpMM:InstanceID>uuid:73CA88B3-BE36-6145-3668-074F86C68202</xmpMM:InstanceID> 
+   <xmpMM:InstanceID>uuid:A0B835D1-E947-943C-A52A-77D262FF5D40</xmpMM:InstanceID> 
   </rdf:Description> 
  </rdf:RDF> 
 </x:xmpmeta> 
