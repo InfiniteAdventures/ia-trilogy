@@ -29,16 +29,16 @@
 \contentsline {section}{\numberline {17.1}Level 7: Eiswirkung}{223}{section.17.1}%
 \contentsline {section}{\numberline {17.2}Level 8: Eiswand}{230}{section.17.2}%
 \contentsline {section}{\numberline {17.3}Level 9: Sunshine Solitude}{233}{section.17.3}%
-\contentsline {section}{\numberline {17.4}Level 10: Der Freibrief}{238}{section.17.4}%
-\contentsline {chapter}{\numberline {18}Die Mondlichtung}{241}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Level 12}{241}{section.18.1}%
+\contentsline {section}{\numberline {17.4}Level 10: Der Freibrief}{241}{section.17.4}%
+\contentsline {chapter}{\numberline {18}Die Mondlichtung}{243}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Level 12}{243}{section.18.1}%
 \newpage 
-\contentsline {part}{\numberline {III}Bonusmaterial}{245}{part.3}%
-\contentsline {chapter}{\numberline {19}Titelmelodie der Infinite Adventures 2}{247}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Musikliste}{249}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Kleines Lexikon}{257}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Orakels Zeichnungen}{261}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Karte der Galaxis}{263}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Auszug: Original-Forenthread}{265}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Bildquellen}{267}{chapter.25}%
-\contentsline {chapter}{\numberline {26}Lizenz des Buchinhalts}{269}{chapter.26}%
+\contentsline {part}{\numberline {III}Bonusmaterial}{247}{part.3}%
+\contentsline {chapter}{\numberline {19}Titelmelodie der Infinite Adventures 2}{249}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Musikliste}{251}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Kleines Lexikon}{259}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Orakels Zeichnungen}{263}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Karte der Galaxis}{265}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Auszug: Original-Forenthread}{267}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Bildquellen}{269}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Lizenz des Buchinhalts}{271}{chapter.26}%
