@@ -1,0 +1,26 @@
+El Dörädö
+
+Rotationsellipsoid mit folgenden Ellipseneigenschaften:
+
+Ellipse
+3km breit
+2km hoch
+
+Etagenhöhe: 3 m
+Innenraumhöhe: 2,5 m
+
+
+
+240 mm ≙ 3000 m
+80 mm ≙ 1000 m
+1 mm ≙ 12,5 m
+0,08 mm ≙ 1 m
+
+
+
+
+[m]
+(1/9000000)x²+(1/4000000)y²=1
+(1/9000000)x²+(1/4000000)y²-1=0
+y=±(2*(9000000-x²)^0.5)/3
+x=±(3*(4000000-y²)^0.5)/2
