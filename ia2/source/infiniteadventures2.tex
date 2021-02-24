@@ -59,10 +59,19 @@
 \usepackage{unicode-math}
 % Ein paar wenige Szenen verwenden mathematische Formeln.
 
-\setromanfont{Linux Libertine}
-\setsansfont{Linux Biolinum}
-\setmonofont{Linux Libertine Mono}
-\setmathfont{STIX Two Math}
+% Idee 1:
+%\setromanfont{Linux Libertine}
+%\setsansfont{Linux Biolinum}
+%\setmonofont{Linux Libertine Mono}
+%\setmathfont{STIX Two Math}
+% ausschließlich frei lizenzierte Schriften verwenden.
+
+
+% Idee 2:
+\setromanfont[Path=~/.fonts/,BoldFont=linlibertine_rbah.ttf,ItalicFont=linlibertine_riah.ttf,UprightFont=linlibertine_rah.ttf]{Linux Libertine}
+\setsansfont[Path=~/.fonts/,BoldFont=linbiolinum_rbah.ttf,ItalicFont=linbiolinum_riah.ttf,UprightFont=linbiolinum_rah.ttf]{Linux Biolinum}
+\setmonofont[Path=~/.fonts/,UprightFont=linlibertine_mah.ttf]{Linux Libertine Mono}
+\setmathfont[Path=~/.fonts/,UprightFont=stix2math.otf]{STIX Two Math}
 % ausschließlich frei lizenzierte Schriften verwenden.
 
 \usepackage{microtype}
@@ -5343,7 +5352,7 @@ Der Bordcomputer war intelligent genug, um zu erkennen, dass der Pilot einen Zus
 	∞∞∞
 \end{center}
 
-Als das Leuchtfeuer auf der Außenansicht der El Dörädö erschien, blieb es unbeachtet. Ein Großteil der Bevölkerung schlief zu dieser Zeit; wenige hatten Nachtdienst. Die im Kommandoraum arbeitenden Offiziere waren damit beschäftigt, einen katastrophalen Zusammenbruch des Schutzschirms zu verhindern, nachdem im Südosten vollkommen unvermittelt ein Gravitationspuls entstanden war. Der grüne Schirm wackelte an der betroffenen Stelle wie Pudding; ein kleines Erdbeben zog sich wabernd über die Außenhülle hinweg. In bedrohlicher Resonanz schlug die ehemals eng anliegende Energiehülle gegen den Schiffsrumpf, steigerte sich mit zunehmender Nordwestlichkeit in eine pochende Oszillation und erreichte unaufhaltsam den gegenüberliegenden Punkt des Ellipsoids, an dem die Wellen unter Blitzen und Funken zusammenschlugen. Sie nahmen dem Eindringling damit einige Arbeit ab, denn die Außenhülle schmolz dort malträtiert vor sich hin. Als Nüggät sich der Katastrophe bis auf fünf Kilometer genähert hatte, platzten Stahl und Schutzschirm auf; kilometerhohe Lichtbögen schlugen ihm entgegen. Die Brillenkameras gaben als »#FFFFFF« eine Strahlung wieder, die in ihrer ursprünglichen Form zur Erblindung geführt hätte.
+Als das Leuchtfeuer auf der Außenansicht der El Dörädö erschien, blieb es unbeachtet. Ein Großteil der Bevölkerung schlief zu dieser Zeit; wenige hatten Nachtdienst. Die im Kommandoraum arbeitenden Offiziere waren damit beschäftigt, einen katastrophalen Zusammenbruch des Schutzschirms zu verhindern, nachdem im Südosten vollkommen unvermittelt ein Gravitationspuls entstanden war. Der grüne Schirm wackelte an der betroffenen Stelle wie Pudding; ein kleines Erdbeben zog sich wabernd über die Außenhülle hinweg. In bedrohlicher Resonanz schlug die ehemals eng anliegende Energiehülle gegen den Schiffsrumpf, steigerte sich mit zunehmender Nordwestlichkeit in eine pochende Oszillation und erreichte unaufhaltsam den gegenüberliegenden Punkt des Ellipsoids, an dem die Wellen unter Blitzen und Funken zusammenschlugen. Sie nahmen dem Eindringling damit einige Arbeit ab, denn die Außenhülle schmolz dort malträtiert vor sich hin. Als Nüggät sich der Katastrophe bis auf fünf Kilometer genähert hatte, platzten Stahl und Schutzschirm auf; kilometerhohe Lichtbögen schlugen ihm entgegen. Die Brillenkameras gaben als »\#FFFFFF« eine Strahlung wieder, die in ihrer ursprünglichen Form zur Erblindung geführt hätte.
 
 Während der Schutzschirm ausgehend von der Bruchstelle kreisförmig zurückwich, flog Dögöbörz Nüggät durch den glühenden Ring in das für unangreifbar gehaltene Heiligtum des mafiösen Gnörk-Kartells hinein. Er landete auf einer Ebene, die durch künstliche örzähnliche Gravitation als Boden markiert wurde und sich von den Seitenwänden durch orangefarbene Beschriftungen und Wegweiserlinien abhob. Die Schwerkraft wirkte auf allen Etagen senkrecht zur Äquatorialebene. An der Decke spendeten wenige noch funktionsfähige Leuchtdioden ein Minimum blauweißen Lichts.
 
@@ -6046,19 +6055,19 @@ Die vollständige Zeitdarstellung der Äöüzz für ÄÜC-Daten ist »Örzbit-Ö
 Die ÄÜC-Begriffsdefinitionen lauten:
 
 ;»Örzklök«, n., Plural »Örzklöks«, umgangssprachlich »Klök«/»Klöks«
-:Ein Örzklök ist das 4&times;7\sup{11}-fache der Periodendauer der Strahlung, die beim Übergang zwischen den beiden Hyperfeinstrukturniveaus des Grundzustands eines Cäsium-133-Atoms entsteht. Es gilt daher: 1 Örzklök = (7909306972 / 9192631770) Sekunden &asymp; 0.8603 Sekunden.
+:Ein Örzklök ist das 4×7\textsuperscript{11}-fache der Periodendauer der Strahlung, die beim Übergang zwischen den beiden Hyperfeinstrukturniveaus des Grundzustands eines Cäsium-133-Atoms entsteht. Es gilt daher: 1 Örzklök = (7909306972 / 9192631770) Sekunden ≈ 0.8603 Sekunden.
 ;»Örzkläk«, n., Plural »Örzkläks«, umgangssprachlich »Kläk«/»Kläks«
-:Ein Örzkläk entspricht 7\sup{2} Örzklöks = 49 Örzklöks. Es gilt daher: 1 Örzkläk = 49 * (7909306972 / 9192631770) Sekunden &asymp; 42 Sekunden &asymp; 0.7027 Minuten.
+:Ein Örzkläk entspricht 7\textsuperscript{2} Örzklöks = 49 Örzklöks. Es gilt daher: 1 Örzkläk = 49 * (7909306972 / 9192631770) Sekunden ≈ 42 Sekunden ≈ 0.7027 Minuten.
 ;»Örzklünk«, n., Plural »Örzklünks«, umgangssprachlich »Klünk«/»Klünks«
-:Ein Örzklünk entspricht 7\sup{2} Örzkläks = 7\sup{4} Örzklöks = 2401 Örzklöks. Es gilt daher: 1 Örzklünk = 2401 * (7909306972 / 9192631770) Sekunden &asymp; 2066 Sekunden &asymp; 34 Minuten &asymp; 0.5738 Stunden.
+:Ein Örzklünk entspricht 7\textsuperscript{2} Örzkläks = 7\textsuperscript{4} Örzklöks = 2401 Örzklöks. Es gilt daher: 1 Örzklünk = 2401 * (7909306972 / 9192631770) Sekunden ≈ 2066 Sekunden ≈ 34 Minuten ≈ 0.5738 Stunden.
 ;»Örzröt«, n., (von »Örz-Rötätiön«, Örz-Tag), Plural »Örzröts«, umgangssprachlich »Röt«/»Röts«
-:Ein Örzröt entspricht 7\sup{2}&times;7\sup{4} Örzklöks = 49 Örzklünks. Es gilt daher: 1 Örzröt = 117649 * (7909306972 / 9192631770) Sekunden &asymp; 101225 Sekunden &asymp; 1687 Minuten &asymp; 28 Stunden &asymp; 1.1716 Tage.
+:Ein Örzröt entspricht 7\textsuperscript{2}×7\textsuperscript{4} Örzklöks = 49 Örzklünks. Es gilt daher: 1 Örzröt = 117649 * (7909306972 / 9192631770) Sekunden ≈ 101225 Sekunden ≈ 1687 Minuten ≈ 28 Stunden ≈ 1.1716 Tage.
 ;»Örzwök«, n., (von »Week«, Örz-Woche), Plural »Örzwöks«, umgangssprachlich »Wök«/»Wöks«
 :Ein Örzwök entspricht 7 Örzröt. Es gilt daher: 1 Örzwök = ...
 ;»Örzmön«, n., (von »Month«, Örz-Monat), Plural »Örzmöns«, umgangssprachlich »Mön«/»Möns«
 :Ein Örzmön entspricht 7 Örzwök = 49 Örzröt. Es gilt daher: 1 Örzmön = ...
 ;»Örzbit«, n., (von »Örz-Örbit«, Örz-Jahr), Plural »Örzbits«, Verwendung der umgangssprachlichen Form »Bit«/»Bits« beim Schreiben der IA-Romane verboten, um Verwechslung mit binären Ziffern zu vermeiden.
-:Ein Örzbit entspricht 7\sup{2}&times;7\sup{3}&times;7\sup{4} Örzklöks = 7 Örzmön = 49 Örzwök = 343 Örzröt. Es gilt daher: 1 Örzbit = 40353607 * (7909306972 / 9192631770) Sekunden &asymp; 34720097 Sekunden &asymp; 578668 Minuten &asymp; 9644 Stunden &asymp; 402 Tage &asymp; 1.1002 julianische Jahre (zu je 365.25 Tagen).
+:Ein Örzbit entspricht 7\textsuperscript{2}×7\textsuperscript{3}×7\textsuperscript{4} Örzklöks = 7 Örzmön = 49 Örzwök = 343 Örzröt. Es gilt daher: 1 Örzbit = 40353607 * (7909306972 / 9192631770) Sekunden ≈ 34720097 Sekunden ≈ 578668 Minuten ≈ 9644 Stunden ≈ 402 Tage ≈ 1.1002 julianische Jahre (zu je 365.25 Tagen).
 
 Der Beginn des ÄÜC-Kalenders ist definiert als der Beginn des irdischen Datums <strong>753</strong>-01-01 <strong>BCE</strong> (Before Common Era, »vor unserer Zeitrechnung«). Es gilt daher:
 
@@ -6137,15 +6146,15 @@ Die Tageszahl beträgt »x/343«. Die Rückwärtsrechnung ist »343*y«, wobei y
 <dt>2001:db8:1:1a0:539:7ff3:65:29a</dt>
 :IPv6-Dokumentationspräfix (»2001:db8«), Telefonvorwahlen von Kanada (1) und Toronto (416 = 1a0₁₆), Leet (1337 = 539₁₆), Etagennummer (32767-12 = 7ff3₁₆), Raumnummer (101 = 65₁₆), Computernummer (666 = 29a₁₆)
 ;"zweihundertsechzehn" (216)
-:6\sup{3}
+:6\textsuperscript{3}
 ;Serverraum 101
 :Anspielung auf Orwell's "Room 101" im Roman "1984"
 ;ÄÜC
 :Äb Ürb Cönditä. Siehe Bonus-Kapitel "Zeitrechnung der Äöüzz".
 ;117648
-:666666\sub{7}
+:666666₇
 ;"Fünfhundertneununddreißig" (539)
-:1400\sub{7}
+:1400₇
 ;55, 987 und 10946
 :Fibonacci-Zahlen (wegen "Helix" / "Spirale")
 ;Integral von eins bis unendlich über ein Floor-x-tel minus ein X-tel nach x

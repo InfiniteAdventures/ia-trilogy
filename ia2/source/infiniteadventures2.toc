@@ -1,44 +1,52 @@
 \selectlanguage *[spelling=new, babelshorthands=false]{german}
 \contentsline {section}{\nonumberline Was bisher geschah}{10}{section*.2}%
-\contentsline {part}{\numberline {I}Befreiung der Erde}{11}{part.1}%
-\contentsline {chapter}{\numberline {1}Kernel Panic}{13}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Das Rathaus von Toronto}{47}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Minus Zwölf}{65}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Dögöbörz Nüggät}{73}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Abflug}{85}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Zwei blinde Hühner}{99}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Wie überrumpelt man einen Raumschiffentführer?}{105}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Goethe und Schiller}{117}{chapter.8}%
+\contentsline {part}{\numberline {I}Befreiung der Erde}{13}{part.1}%
+\contentsline {chapter}{\numberline {1}Kernel Panic}{15}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Das Rathaus von Toronto}{39}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Minus Zwölf}{59}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Dögöbörz Nüggät}{67}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Abflug}{81}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Zwei blinde Hühner}{95}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Wie überrumpelt man einen Raumschiffentführer?}{101}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Goethe und Schiller}{113}{chapter.8}%
 \newpage 
-\contentsline {part}{\numberline {II}Das Gnörk-Kartell}{125}{part.2}%
-\contentsline {chapter}{\numberline {9}Islands Vermächtnis}{127}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Außerordentliche Sitzung}{137}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Gestrandet im Helixnebel}{153}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Level 1: Urwald}{153}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Level 2: Ein bisschen Steinzeit}{155}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Level 3: Tropischer Ozean}{158}{section.11.3}%
-\contentsline {chapter}{\numberline {12}Wildfalle}{167}{chapter.12}%
+\contentsline {part}{\numberline {II}Das Gnörk-Kartell}{121}{part.2}%
+\contentsline {chapter}{\numberline {9}Islands Vermächtnis}{123}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Außerordentliche Sitzung}{133}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Gestrandet im Helixnebel}{151}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Level 1: Urwald}{151}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Level 2: Ein bisschen Steinzeit}{153}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Level 3: Tropischer Ozean}{157}{section.11.3}%
+\contentsline {chapter}{\numberline {12}Wildfalle}{165}{chapter.12}%
 \contentsline {chapter}{\numberline {13}Fortsetzung der Einsamkeit}{177}{chapter.13}%
 \contentsline {section}{\numberline {13.1}Level 4: Stinkesumpf}{177}{section.13.1}%
 \contentsline {section}{\numberline {13.2}Level 5: Pfad der neuen Hoffnung}{178}{section.13.2}%
 \contentsline {chapter}{\numberline {14}Der ugghy-Coup}{185}{chapter.14}%
 \contentsline {chapter}{\numberline {15}Der Sturm}{203}{chapter.15}%
 \contentsline {section}{\numberline {15.1}Level 6: Eiskalte Heimsuchung}{203}{section.15.1}%
-\contentsline {chapter}{\numberline {16}Über den Dächern von Legisla}{211}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Auf Schlittschuhen in den Abgrund}{223}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Level 7: Eiswirkung}{223}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Level 8: Eiswand}{230}{section.17.2}%
-\contentsline {section}{\numberline {17.3}Level 9: Sunshine Solitude}{233}{section.17.3}%
-\contentsline {chapter}{\numberline {18}Der Freibrief}{239}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Die Mondlichtung}{243}{chapter.19}%
-\contentsline {section}{\numberline {19.1}Level 12}{243}{section.19.1}%
+\contentsline {chapter}{\numberline {16}Über den Dächern von Legisla}{213}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Auf Schlittschuhen in den Abgrund}{225}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Level 7: Eiswirkung}{225}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Level 8: Eiswand}{233}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Level 9: Sunshine Solitude}{236}{section.17.3}%
+\contentsline {chapter}{\numberline {18}Abgehobene Gesellschaft}{243}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Zurück zum Helix-Nebel}{255}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Level 10: Die Flucht des Dädalos}{255}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Level 11: Ruhe vor dem Sturm}{259}{section.19.2}%
+\contentsline {chapter}{\numberline {20}Verkehrte Welt}{261}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Plutoniumbefeuerter Wahnsinn}{267}{chapter.21}%
 \newpage 
-\contentsline {part}{\numberline {III}Bonusmaterial}{247}{part.3}%
-\contentsline {chapter}{\numberline {20}Titelmelodie der Infinite Adventures 2}{249}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Musikliste}{251}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Kleines Lexikon}{259}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Orakels Zeichnungen}{263}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Karte der Galaxis}{265}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Auszug: Original-Forenthread}{267}{chapter.25}%
-\contentsline {chapter}{\numberline {26}Bildquellen}{269}{chapter.26}%
-\contentsline {chapter}{\numberline {27}Lizenz des Buchinhalts}{271}{chapter.27}%
+\contentsline {part}{\numberline {III}Bonusmaterial}{309}{part.3}%
+\contentsline {chapter}{\numberline {22}Postskriptum}{311}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Titelmelodie der Infinite Adventures 2}{313}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Musikliste}{315}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Zeitrechnung der Äöüzz}{323}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Kalender mit Umrechnungshinweisen}{325}{section.25.1}%
+\contentsline {subsection}{\numberline {25.1.1}Irdischer CE-Kalender}{325}{subsection.25.1.1}%
+\contentsline {subsection}{\numberline {25.1.2}Äöüzz-ÄÜC-Kalender}{326}{subsection.25.1.2}%
+\contentsline {chapter}{\numberline {26}Kleines Lexikon}{327}{chapter.26}%
+\contentsline {chapter}{\numberline {27}Orakels Zeichnungen}{329}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Karte der Galaxis}{331}{chapter.28}%
+\contentsline {chapter}{\numberline {29}Auszug: Original-Forenthread}{333}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Bildquellen}{335}{chapter.30}%
+\contentsline {chapter}{\numberline {31}Lizenz des Buchinhalts}{337}{chapter.31}%

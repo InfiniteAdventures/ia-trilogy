@@ -34,6 +34,11 @@ Versionsverwaltung: git
             > git commit -a -m 'Nachricht'
             > git push
 
+Schriftarten:
+    Bereitstellen:
+        linbiolinum_*.ttf, linlibertine_*.ttf und stix2math.otf in ~/.fonts kopieren, (Verzeichnis erstellen, falls noch nicht vorhanden).
+        System neustarten.
+
 Compilierungs-Umgebung: texlive-full, bash
     Compilieren:
         > lualatex infiniteadventures2.tex
