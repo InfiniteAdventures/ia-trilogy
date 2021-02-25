@@ -38,6 +38,9 @@ Schriftarten:
     Bereitstellen:
         linbiolinum_*.ttf, linlibertine_*.ttf und stix2math.otf in ~/.fonts kopieren, (Verzeichnis erstellen, falls noch nicht vorhanden).
         System neustarten.
+        Alle Schriftarten in Lua einlesen:
+        > luaotfload-tool -vvv --update --force
+        Gegebenenfalls noch einmal das System neustarten.
 
 Compilierungs-Umgebung: texlive-full, bash
     Compilieren:
