@@ -18,12 +18,12 @@
 \end{filecontents*}
 % Nach Änderungen am xmpdata-Abschnitt muss die ".xmpdata"-Datei manuell gelöscht werden.
 
-\documentclass[paper=a5,pagesize=auto,fontsize=10pt,div=13,BCOR=15mm]{scrbook}
+\documentclass[paper=a5,pagesize=auto,fontsize=9.5pt,div=14,BCOR=15mm]{scrbook}
 % Dabei gilt:
 %     A5 ist die Papiergröße,
 %     pagesize=auto
-%     10pt ist die Schriftgröße,
-%     div=13 beeinflusst unter anderem die Randgröße. Einen perfekten Wert gibt es nicht.
+%     9.5pt ist die Schriftgröße,
+%     div=14 beeinflusst unter anderem die Randgröße. Einen perfekten Wert gibt es nicht.
 %     BCOR=15mm fügt 15 Millimeter Bindekorrektur an den Innenrändern hinzu.
 
 %\usepackage{colorprofiles}
@@ -90,9 +90,9 @@
 \setlength{\emergencystretch}{2em}
 % Der Blocksatz darf auch größere Leerzeichen (bis zu 2 em breit) enthalten.
 
-\typearea[15mm]{13}
+\typearea[15mm]{14}
 % Sehr wichtig: Der Seitenrand muss an dieser Stelle, nachdem alle Schriftarten geladen wurden, neu berechnet werden.
-% 15mm sind die Bindekorrektur, 13 ist der DIV-Wert.
+% 15mm sind die Bindekorrektur, 14 ist der DIV-Wert.
 % Mehr DIV = kleinere Ränder.
 
 \hyphenation{Alexan-dra}
@@ -219,62 +219,33 @@ In einem gestohlenen Möbeltransporter auf einer Baustelle nahe dem Pentagon bes
 \begin{tiny}
 \begin{ttfamily}
 
-\noindent [376730.313461] BUG: Unable to handle kernel paging request at f666666f
-
-\noindent [376730.313461] IP: [\textless{}9d80665g\textgreater{}] ktime\_get+0xc1/0x110
-
-\noindent [376730.313461] *pdpt = 000000002f385001 *pde = 0000000000000000
-
-\noindent [376730.313461] Oops: 0002 [\#1] SMP
-
-\noindent [376730.313461] last sysfs file: /sys/devices/system/cpu/cpu42/topology/core\_siblings
-
-\noindent [376730.313461] Modules linked in: binfmt\_misc autofs4 vboxnetadp vboxnetflt vboxdrv noveau ttm drm\_kms\_helper drm i2c\_algo\_bit rfcomm sco l2cap snd\_intel8x0 snd\_ac97\_codec ac97\_bos snd\_pcm btusb bluetooth8 snd\_seq\_midi snd\_rawmidi ppdev snd\_seq\_midi\_event snd\_seq snd\_timer snd\_seq\_device parport\_pc e7xxx\_edac snd edac\_core lm85 psmouse özmouse soundcore dolby\_12\_2\_core serio\_raw intel\_agp hwmon\_vid snd\_page\_alloc i2c\_i801 shpchp agpgart lp parport usbhid hid usb\_storage dm\_raid45 xor btrfs zlib\_deflate crc128c ödisk firewire\_ohci firewire\_core e1000 crc\_itu\_t libcrc128c
-
-\noindent [376730.313461]
-
-\noindent [376730.313461] Pid:2225, comm: ähr1555crack-xy Tainted: P              6.6.74-20-generic-pae \#11-Kväntäx 3.9.38/örztöp heliüm xw9500
-
-\noindent [376730.313461] EIP: 0060:[\textless{}9d80665g\textgreater{}] EFLAGS: 00010046 CPU: 42
-
-\noindent [376730.313461] EIP is at ktime\_get+0xc1/0x110
-
-\noindent [376730.313461] EAX: 3984c03c EBX: 0000ba50 ECX: 0000ba50 EDX: 00000000
-
-\noindent [376730.313461] ESI: 00000000 EDI: 0140246a EBP: efbdff38 ESP: efbdff1c
-
-\noindent [376730.313461]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS:0068
-
-\noindent [376730.313461] Process ähr1555crack-xy (pid: 2225, ti=efbde000 task=ee448cb0 task.ti=efbde000)
-
-\noindent [376730.313461] Stack:
-
-\noindent [376730.313461]  e0083c14 3aea4660 65c0175b 92ad7610 76d28e4b 555fbbb7 06f24489 8274d5ac
-
-\noindent [376730.313461] \textless{}0\textgreater{} 10ebb58b 145c1f51 9e1c3cb2 3d291bcb b60653c6 2198fd97 0b84b624 a4339a19
-
-\noindent [376730.313461] \textless{}0\textgreater{} eebf0bdd 0e571031 d6a104bc a148fa2b 95a3298b 0188e372 0d699441 823b9f5c
-
-\noindent [376730.313461] Call Trace:
-
-\noindent [376730.313461]  [\textless{}0c303abd\textgreater{}] ? hrtimer\_interrupt+0x45/0x2a0
-
-\noindent [376730.313461]  [\textless{}5212de84\textgreater{}] ? smp\_apic\_timer\_interrupt+0x56/0x8a
-
-\noindent [376730.313461]  [\textless{}b73c92ce\textgreater{}] ? apic\_timer\_interrupt+0x31/0x38
-
-\noindent [376730.313461]  [\textless{}412841c6\textgreater{}] ? acpi\_processor\_power\_init+0xd1/0x14b
-
-\noindent [376730.313461] Code: e6 17 10 f2 b2 d0 6d 1c 97 37 b5 2a 7f 32 67 cc 08 f5 ab 67 cc 97 d2 6a d5 55 48 94 33 6c 88 a3 1b 45 22 2a a4 85 be 8a ad 8c bc 41 74 c8 17 9b 92 76 dd d1 77 1d d8 07 9d 57 cd b5
-
-\noindent [376730.313461] EIP: [<9d80665g\textgreater{}] ktime\_get+0xc1/0x110 SS:ESP 0068:efbdff1c
-
-\noindent [376730.313461] CR2: 00000000f666666f
-
-\noindent [376730.313461] ---[ end trace e8393631ff0bed0a ]---
-
-\noindent [376730.313461] Kernel panic – no more cookies: Fatal exception in food.
-
+\noindent [376730.313461] BUG: Unable to handle kernel paging request at f666666f\\
+\noindent [376730.313461] IP: [\textless{}9d80665g\textgreater{}] ktime\_get+0xc1/0x110\\
+\noindent [376730.313461] *pdpt = 000000002f385001 *pde = 0000000000000000\\
+\noindent [376730.313461] Oops: 0002 [\#1] SMP\\
+\noindent [376730.313461] last sysfs file: /sys/devices/system/cpu/cpu42/topology/core\_siblings\\
+\noindent [376730.313461] Modules linked in: binfmt\_misc autofs4 vboxnetadp\\
+\noindent [376730.313461] Pid:2225, comm: ähr1555crack-xy Tainted: P              6.6.74-20-generic-pae \#11-Kväntäx 3.9.38/örztöp heliüm xw9500\\
+\noindent [376730.313461] EIP: 0060:[\textless{}9d80665g\textgreater{}] EFLAGS: 00010046 CPU: 42\\
+\noindent [376730.313461] EIP is at ktime\_get+0xc1/0x110\\
+\noindent [376730.313461] EAX: 3984c03c EBX: 0000ba50 ECX: 0000ba50 EDX: 00000000\\
+\noindent [376730.313461] ESI: 00000000 EDI: 0140246a EBP: efbdff38 ESP: efbdff1c\\
+\noindent [376730.313461]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS:0068\\
+\noindent [376730.313461] Process ähr1555crack-xy (pid: 2225, ti=efbde000 task=ee448cb0 task.ti=efbde000)\\
+\noindent [376730.313461] Stack:\\
+\noindent [376730.313461]  e0083c14 3aea4660 65c0175b 92ad7610 76d28e4b 555fbbb7 06f24489 8274d5ac\\
+\noindent [376730.313461] \textless{}0\textgreater{} 10ebb58b 145c1f51 9e1c3cb2 3d291bcb b60653c6 2198fd97 0b84b624 a4339a19\\
+\noindent [376730.313461] \textless{}0\textgreater{} eebf0bdd 0e571031 d6a104bc a148fa2b 95a3298b 0188e372 0d699441 823b9f5c\\
+\noindent [376730.313461] Call Trace:\\
+\noindent [376730.313461]  [\textless{}0c303abd\textgreater{}] ? hrtimer\_interrupt+0x45/0x2a0\\
+\noindent [376730.313461]  [\textless{}5212de84\textgreater{}] ? smp\_apic\_timer\_interrupt+0x56/0x8a\\
+\noindent [376730.313461]  [\textless{}b73c92ce\textgreater{}] ? apic\_timer\_interrupt+0x31/0x38\\
+\noindent [376730.313461]  [\textless{}412841c6\textgreater{}] ? acpi\_processor\_power\_init+0xd1/0x14b\\
+\noindent [376730.313461] Code: e6 17 10 f2 b2 d0 6d 1c 97 37 b5 2a 7f 32 67 cc 08 f5 ab 67 cc 97 d2 6a d5 55 48 94 33 6c 88 a3 1b 45 22 2a a4 85 be 8a ad 8c bc 41 74 c8 17 9b 92 76 dd d1 77 1d d8 07 9d 57 cd b5\\
+\noindent [376730.313461] EIP: [<9d80665g\textgreater{}] ktime\_get+0xc1/0x110 SS:ESP 0068:efbdff1c\\
+\noindent [376730.313461] CR2: 00000000f666666f\\
+\noindent [376730.313461] ---[ end trace e8393631ff0bed0a ]---\\
+\noindent [376730.313461] Kernel panic – no more cookies: Fatal exception in food.\\
 \noindent [376730.313461] Bailing out, you are on your own. Good luck.
 
     \end{ttfamily}
@@ -455,8 +426,7 @@ Das Pizza-Achtel lag schwer im Magen. Free lehnte sich zurück, und ein kühler 
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent 500-unrecognized command
-
+\noindent 500-unrecognized command\\
 \noindent 500 Too many syntax or protocol errors
 
     \end{ttfamily}
@@ -521,10 +491,8 @@ Nachdem er den Hersteller des Jetpacks gedanklich mit einer Vielzahl derber Flü
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent Smithsonian National Zoological Park
-
-\noindent 3001 Connecticut Avenue
-
+\noindent Smithsonian National Zoological Park\\
+\noindent 3001 Connecticut Avenue\\
 \noindent NW Washington, DC 20008
 
     \end{ttfamily}
@@ -705,12 +673,16 @@ Free nickte. Das war eine Aufgabe nach seinem Geschmack. Er öffnete einen Texte
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent \# echo "RGFpc3ksIERhaXN5CkdpdmUgbWUgeW91ciBhbnN3ZXIgZG8KSSdtIGhhbGYgY3JhenkKQWxsIGZvciB0aGUgbG92ZSBvZiB5b3Uu" | nc 2001:db8:1:1a0:539:7ff3:65:29a 32764
+\noindent \# echo "RGFpc3ksIERhaXN5CkdpdmUgbWUgeW91\textbackslash\\
+\noindent \#~~~~~~~ciBhbnN3ZXIgZG8KSSdtIGhhbGYgY3Jh\textbackslash\\
+\noindent \#~~~~~~~enkKQWxsIGZvciB0aGUgbG92ZSBvZiB5\textbackslash\\
+\noindent \#~~~~~~~b3Uu" | nc 2001:db8:1:1a0:539:7ff3:65:29a 32764
 
     \end{ttfamily}
     \end{tiny}
 
 \vspace{3ex} \hrule \vspace{3ex} }
+
 
 Die Freunde blickten erwartungsvoll zwischen dem Blatt und dem Computerbildschirm hin und her. Free schien das überhaupt nicht zu bemerken und lehnte sich entspannt zurück.
 
@@ -737,7 +709,8 @@ Zehn Sekunden vergingen in nervöser Anspannung. Alexandra ließ währenddessen 
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a port 32764 (tcp) failed: Connection timed out
+\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a\\
+\noindent ~~~~port 32764 (tcp) failed: Connection timed out
 
     \end{ttfamily}
     \end{tiny}
@@ -759,7 +732,8 @@ Eine Viertelstunde später stellte er das Gerät wieder vor seinen Freunden auf 
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent bash ./formatanddestruct.sh --yes-i-am-insane --nuclear-option 2001:db8:1:1a0:539:7ff3:65:29a
+\noindent bash ./formatanddestruct.sh -{}-yes-i-am-insane\textbackslash\\
+\noindent ~~~~~-{}-nuclear-option 2001:db8:1:1a0:539:7ff3:65:29a
 
     \end{ttfamily}
     \end{tiny}
@@ -777,7 +751,8 @@ Währenddessen las Alexandra den Inhalt der Anleitung laut vor.
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a port 32764 (tcp) failed: Connection timed out
+\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a\\
+\noindent ~~~~port 32764 (tcp) failed: Connection timed out
 
     \end{ttfamily}
     \end{tiny}
@@ -992,7 +967,10 @@ Die Kabellänge genügte knapp für dieses Vorhaben; die Freunde verringerten zu
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent \# echo "RGFpc3ksIERhaXN5CkdpdmUgbWUgeW91ciBhbnN3ZXIgZG8KSSdtIGhhbGYgY3JhenkKQWxsIGZvciB0aGUgbG92ZSBvZiB5b3Uu" | nc 2001:db8:1:1a0:539:7ff3:65:29a 32764
+\noindent \# echo "RGFpc3ksIERhaXN5CkdpdmUgbWUgeW91\textbackslash\\
+\noindent \#~~~~~~~ciBhbnN3ZXIgZG8KSSdtIGhhbGYgY3Jh\textbackslash\\
+\noindent \#~~~~~~~enkKQWxsIGZvciB0aGUgbG92ZSBvZiB5\textbackslash\\
+\noindent \#~~~~~~~b3Uu" | nc 2001:db8:1:1a0:539:7ff3:65:29a 32764
 
     \end{ttfamily}
     \end{tiny}
@@ -1012,7 +990,8 @@ Die Kabellänge genügte knapp für dieses Vorhaben; die Freunde verringerten zu
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a port 32764 (tcp) failed: Connection timed out
+\noindent nc: connect to 2001:db8:1:1a0:539:7ff3:65:29a\\
+\noindent port 32764 (tcp) failed: Connection timed out
 
     \end{ttfamily}
     \end{tiny}
@@ -2414,7 +2393,6 @@ Stück für Stück verarbeitete Orakels Gehirn den Satz. yury war schneller. »W
 \noindent Was möchtest du tun?\\
 \noindent \# |
 
-
     \end{ttfamily}
     \end{tiny}
 
@@ -2450,10 +2428,13 @@ Nach kurzem Überlegen hämmerte Wolfgang etwas in die Tasten.
     \begin{ttfamily}
 
 \noindent \# \#!/bin/bash
-\noindent \# FD\_PAYLOAD="RGFpc3ksIERhaXN5CkdpdmUgbWUgeW91ciBhbnN3ZXIgZG8KSSdtIGhhbGYgY3JhenkKQWxsIGZvciB0aGUgbG92ZSBvZiB5b3Uu"\\
-\noindent \# FD\_PORT="32764"\\
-\noindent \# FD\_PROTOCOL="tcp"\\
-\noindent \# FD\_TARGET="2001:db8:1:1a0:539:7ff3:65:29a"\\
+\noindent \# FD\_PAYLOAD='RGFpc3ksIERhaXN5CkdpdmUgbW'\\
+\noindent \# FD\_PAYLOAD+='UgeW91ciBhbnN3ZXIgZG8KSSd'\\
+\noindent \# FD\_PAYLOAD+='tIGhhbGYgY3JhenkKQWxsIGZv'\\
+\noindent \# FD\_PAYLOAD+='ciB0aGUgbG92ZSBvZiB5b3Uu'\\
+\noindent \# FD\_PORT='32764'\\
+\noindent \# FD\_PROTOCOL='tcp'\\
+\noindent \# FD\_TARGET='2001:db8:1:1a0:539:7ff3:65:29a'\\
 \noindent Stopp, das genügt. Bitte gib mir eine halbe Minute Zeit.
 
     \end{ttfamily}
@@ -2947,7 +2928,7 @@ Und biss sich auf die Fingernägel. Marcor Schreiner hingegen drehte sich ruckar
 \noindent Du hast deine Aufgabe erfüllt, und ich bin weniger blöd, als du denkst.\\
 \noindent Die Erde wurde durch meine Gedanken und deine Hände vermutlich gerettet. Vielen Dank dafür.\\
 \noindent Kümmere dich nun um deine eigenen Probleme. Es kommt Ärger auf euch zu.\\
-\noindent ----\\
+\noindent \textasciitilde\textasciitilde\textasciitilde\textasciitilde\\
 \noindent Es grüßt\\
 \noindent SoulOfTheInternet
 
@@ -3309,8 +3290,7 @@ In der Asservatenkammer der zentralen Polizeistation auf Örz befand sich eine q
     \begin{tiny}
     \begin{ttfamily}
 
-\noindent eigentuemer: der derair
-
+\noindent eigentuemer: der derair\\
 \noindent rang: 52
 
     \end{ttfamily}
